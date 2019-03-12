@@ -1,0 +1,203 @@
+[
+	{
+		"tag":"2017-09-18",
+		"inhalt":[
+			{"fach":"","inhalt":"Aufname in das Beruflische Schulzentrum e. o. Plauen"},
+			{"fach":"","inhalt":"Erledigung der Formalitäten und Rundgang des Schulzentrums"}
+		]
+	},
+	{
+		"tag":"2017-09-19",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Einführung und Mainboard"},
+			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation"},
+			{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme"},
+			{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess"},
+			{"fach":"Programmierung mit Java","inhalt":"Einführung und Syntax"}
+		]
+	},
+	{
+		"tag":"2017-09-20",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme: Umwandlung"},
+			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation"},
+			{"fach":"Wirtschaftskunde","inhalt":"Bedarf, Bedürfnisse, Nachfrage"}
+		]
+	},
+	{
+		"tag":"2017-09-21",
+		"inhalt":[
+			{"fach":"Englisch","inhalt":"Einführung"},
+			{"fach":"Hardware","inhalt":"Mainboard"},
+			{"fach":"Deutsch","inhalt":"Kommunikation und Sprache"},
+			{"fach":"Sport","inhalt":"Einführung und Übersicht"}
+		]
+	},
+	{
+		"tag":"2017-09-22",
+		"inhalt":[
+			{"fach":"Installation","inhalt":"Stromerzeugung und Übertragung"},
+			{"fach":"Arbeitsmethodik","inhalt":"Anforderungen an IT Mitarbeiter"},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Einführung"}
+		]
+	},
+	{
+		"tag":"2017-09-25",
+		"inhalt":[
+			{"fach":"Webseitengestaltung","inhalt":"HTML Einführung und Syntax"},
+			{"fach":"Betriebssysteme","inhalt":"Einführung"}
+		]
+	},
+	{
+		"tag":"2017-09-26",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Prozessor Arbeitsprinzip"},
+			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation"},
+			{"fach":"Grundlagen der Informatik","inhalt":""},
+			{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess"},
+			{"fach":"Programmierung mit Java","inhalt":"Syntax"}
+		]
+	},
+	{
+		"tag":"2017-09-27",
+		"inhalt":[
+			{"fach":"Sportfest","inhalt":"Sportfest"}
+		]
+	},
+	{
+		"tag":"2017-09-28",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Prozessor Arbeitsprinzip"},
+			{"fach":"Deutsch","inhalt":"Kommunikation"},
+			{"fach":"Sport","inhalt":"Dauerlauf"}
+		]
+	},
+	{
+		"tag":"2017-09-29",
+		"inhalt":[
+			{"fach":"Installation","inhalt":"Stromnetze"},
+			{"fach":"Arbeitsmethodik","inhalt":"Kommunikation"},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Berufsbildung"}
+		]
+	},
+	{
+		"tag":"2017-11-27",
+		"inhalt":[
+			{"fach":"Webseitengestaltung","inhalt":"Listen, Quellpfade, Bilder"},
+			{"fach":"Betriebssysteme","inhalt":"Aufgaben und Funktionen von Betriebssystemen"}
+		]
+	},
+	{
+		"tag":"2017-11-28",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Wiederholung"},
+			{"fach":"Gemeinschaftskunde","inhalt":"Persönliche Kompetenzen"},
+			{"fach":"Grundlagen der Informatik","inhalt":"Wiederholung"},
+			{"fach":"Projektierung","inhalt":"Qualität von Software"},
+			{"fach":"Java","inhalt":"For- und While-Schleifen"}
+		]
+	},
+	{
+		"tag":"2017-11-29",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Rechnen mit Dualzahlen"},
+			{"fach":"Gemeinschaftskunde","inhalt":"Soziale und fachliche Kompetenzen"},
+			{"fach":"Installationstechnik","inhalt":"Spannungsbereiche und Schutzklassen"}
+		]
+	},
+	{
+		"tag":"2017-11-30",
+		"inhalt":[
+			{"fach":"Englisch","inhalt":"Multiple choice + Bericht Schreiben"},
+			{"fach":"Hardware","inhalt":"Aufbau und Entwicklung von Prozessoren"},
+			{"fach":"Deutsch","inhalt":"Zusammenfassung Kommunikation, Sprachebenen"}
+		]
+	},
+	{
+		"tag":"2017-12-01",
+		"inhalt":[
+			{"fach":"Installation","inhalt":"Maßnahmen zum Personenschutz"},
+			{"fach":"Arbeitsmethodik","inhalt":"Kommunikationsregeln"}
+		]
+	},
+	{
+		"tag":"2017-12-04",
+		"inhalt":[
+			{"fach":"Webgestaltung","inhalt":"Tabellen, iframes, Formulare"},
+			{"fach":"Betriebssysteme","inhalt":"Arten der Betriebssysteme"},
+			{"fach":"Wirtschaftskunde","inhalt":"Berufsbildungsgesetz"}
+		]
+	},
+	{
+		"tag":"2017-12-05",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"CPU Rechenleistung und Kühlung"},
+			{"fach":"Gemeinschaftskunde","inhalt":"Wiederholung Kompetenzen"},
+			{"fach":"Wirtschaftskunde","inhalt":"Arbeitsblätter und Aufgaben zum BBG"},
+			{"fach":"Projektierung","inhalt":"Projektorganisation"},
+			{"fach":"Java","inhalt":"Java"}
+		]
+	},
+	{
+		"tag":"2017-12-06",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Leistungskontrolle"},
+			{"fach":"Grundlagen der Informatik","inhalt":"Hexadezimal Umwandlung"}
+		]
+	},
+	{
+		"tag":"2017-12-07",
+		"inhalt":[
+			{"fach":"Englisch","inhalt":"Textverständnis und Übersetzungen"},
+			{"fach":"Hardware","inhalt":"Leistungskontrolle"},
+			{"fach":"Deutsch","inhalt":"Leistungskontrolle, Definition von Sprache"}
+		]
+	},
+	{
+		"tag":"2017-12-08",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Leistungskontrolle"},
+			{"fach":"Installation","inhalt":""},
+			{"fach":"Arbeitsmethodik","inhalt":""}
+		]
+	},
+	{
+		"tag":"2018-01-15",
+		"inhalt":[
+			{"fach":"Webgestaltung","inhalt":"HTML, CSS-Selektoren"},
+			{"fach":"Betriebssysteme","inhalt":"Echtzeit-Systeme, Dialogverarbeitung"},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Fortbildung"}
+		]
+	},
+	{
+		"tag":"2018-01-16",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Wiederholung Prozessor, Chipsatz"},
+			{"fach":"English","inhalt":"Aufgaben, Textübersetzung"},
+			{"fach":"Grundlagen der Informatik","inhalt":"Logische Schaltungen"},
+			{"fach":"Programmierung mit Java","inhalt":"Grundlagen, Wiederholung, Übung"}
+		]
+	},
+	{
+		"tag":"2018-01-17",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Logische Schaltungen"},
+			{"fach":"Betriebswirtschaft","inhalt":"Bedarf, Bedürfnis, Nachfrage"}
+		]
+	},
+	{
+		"tag":"2018-01-18",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Chipsatz"},
+			{"fach":"Deutsch","inhalt":"Wortarten"}
+		]
+	},
+	{
+		"tag":"2018-01-19",
+		"inhalt":[
+			{"fach":"Installation","inhalt":"Schutzleiter, Schutzklassen, FI-Schutzschalter"},
+			{"fach":"Arbeitsmethodik","inhalt":"Team, Teamfähigkeit, Klassenarbeit"}
+		]
+	},
+	"Weiter mit: Seite 6 / 22.01.2018"
+]
