@@ -123,7 +123,7 @@
 	{
 		"tag":"2017-12-04",
 		"inhalt":[
-			{"fach":"Webgestaltung","inhalt":"Tabellen, iframes, Formulare"},
+			{"fach":"Webentwicklung","inhalt":"Tabellen, iframes, Formulare"},
 			{"fach":"Betriebssysteme","inhalt":"Arten der Betriebssysteme"},
 			{"fach":"Wirtschaftskunde","inhalt":"Berufsbildungsgesetz"}
 		]
@@ -164,7 +164,7 @@
 	{
 		"tag":"2018-01-15",
 		"inhalt":[
-			{"fach":"Webgestaltung","inhalt":"HTML, CSS-Selektoren"},
+			{"fach":"Webentwicklung","inhalt":"HTML, CSS-Selektoren"},
 			{"fach":"Betriebssysteme","inhalt":"Echtzeit-Systeme, Dialogverarbeitung"},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Fortbildung"}
 		]
@@ -200,4 +200,213 @@
 		]
 	},
 	"Weiter mit: Seite 6 / 22.01.2018"
+	"----------------------------------------------------------------------------"
+	"22.01.18 - 26.01.18"
+	"week : 3"
+	{
+		"tag":"2018-01-22",
+		"inhalt":[
+			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren", "hours":3},
+			{"fach":"Betriebssysteme", "inhalt":"Qualitätsansprüche, Architekturen und Betriebssysteme", "hours":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsleistung", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-01-23",
+		"inhalt":[
+			{"fach":"Hardware", "inhalt":"elektronischer Speicher", "hours":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"Aufgaben zu logischen Schaltungen", "hours":1},
+			{"fach":"Projektierung", "inhalt":"Wirtschaftlichkeitsbetrachtung, Merkmale eines Projektes", "hours":2},
+			{"fach":"Java", "inhalt":"Switch, Fehlerbehandlung", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-01-24",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik", "inhalt":"Laborversuch mit logischen Schaltungen", "hours":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Wirtschaftskreislauf", "hours":4}
+		]
+	},
+	{
+		"tag":"2018-01-25",
+		"inhalt":[
+			{"fach":"Englisch", "inhalt":"Argumentative Diskursführung", "hours":2},
+			{"fach":"Hardware", "inhalt":"ROM-Speicher, Flash-Speicher", "hours":1}
+			{"fach":"Deutsch", "inhalt":"Wortarten", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-01-26",
+		"inhalt":[
+			{"fach":"Installation","inhalt":"Sicherungen (Überstromschutz)", "hours":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Teamentwicklung", "hours":2}
+		]
+	},
+	"----------------------------------------------------------------------------"
+	"19.03.18 - 23.03.18"
+	"week : 4"
+	{
+		"tag":"2018-03-19",
+		"inhalt":[
+			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren, Pseudoklassen", "hours":3},
+			{"fach":"Betriebssysteme", "inhalt":"Geschichtete Systeme", "hours":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsbedingungen", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-03-20",
+		"inhalt":[
+			{"fach":"Hardware", "inhalt":"nicht flüchtige und flüchtige Speicher", "hours":1},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "hours":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"Synthese logischer Schaltungen", "hours":1},
+			{"fach":"Projektierung", "inhalt":"Projektauftrag", "hours":2},
+			{"fach":"Java", "inhalt":"Aufgaben", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-03-21",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "hours":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Aufgaben, Wirtschaftlichkeit", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-03-22",
+		"inhalt":[
+			{"fach":"Englisch", "inhalt":"Sprachlicher Habitus in Besprechungen", "hours":2},
+			{"fach":"Hardware", "inhalt":"flüchtige Speicher (RAM)", "hours":1},
+			{"fach":"Deutsch", "inhalt":"Leistungskontrolle Wortarten, Schreiben eines Berichtes", "hours":2},
+			{"fach":"Sport", "inhalt":"Kraftübungen", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-03-23",
+		"inhalt":[
+			{"fach":"Installation", "inhalt":"Sicherungen, Elektrische Leitungen", "hours":2},
+			{"fach":"Arbeitsmethodik", "inhalt":"Teamentwicklung", "hours":2}
+		]
+	},
+	"----------------------------------------------------------------------------"
+	"26.03.18 - 30.03.18"
+	"week : 4"
+	{
+		"tag":"2018-03-26",
+		"inhalt":[
+			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren", "hours":3},
+			{"fach":"Betriebssysteme", "inhalt":"Virtuelle Maschinen, Client-Server-Prinzip", "hours":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsschutz, Leistungskontrolle Arbeitsleistung", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-03-27",
+		"inhalt":[
+			{"fach":"Hardware", "inhalt":"Speicherbauformen", "hours":1},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "hours":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"KV-Diagramme", "hours":1},
+			{"fach":"Projektierung", "inhalt":"Projektteam", "hours":2},
+			{"fach":"Java", "inhalt":"Aufgaben", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-03-28",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik", "inhalt":"logische Schaltungen, KV-Diagramme", "hours":2},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Lebensformen der Familien", "hours":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Leistungskontrolle, Preisbildung", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-03-29",
+		"inhalt":[
+			{"fach":"", "inhalt":"", "hours":8, "data":"BETRIEB"}
+		]
+	},
+	{
+		"tag":"2018-03-30",
+		"inhalt":[
+			{"fach":"","inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
+		]
+	},
+	"----------------------------------------------------------------------------"
+	"30.04.18 - 04.05.18"
+	"week : 5"
+	{
+		"tag":"2018-04-30",
+		"inhalt":[
+			{"fach":"Webentwicklung", "inhalt":"CSS Eigenschaften: position, float, flex-box", "hours":3},
+			{"fach":"Betriebssysteme", "inhalt":"Client-Server-Prinzip, Prozesssteuerung", "hours":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Sozialer Arbeitsschutz", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-05-01",
+		"inhalt":[
+			{"fach":"", "inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"},
+		]
+	},
+	{
+		"tag":"2018-05-02",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik", "inhalt":"KV-Diagramme", "hours":3},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Lebensformen der Familien, Lebenskreislauf", "hours":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Preisbildung, Rechtliche Rahmenbedingungen des wirtschaftlichen Handels", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-05-03",
+		"inhalt":[
+			{"fach":"Englisch", "inhalt":"Zeitformen", "hours":2},
+			{"fach":"Hardware", "inhalt":"Bus-Systeme", "hours":1},
+			{"fach":"Deutsch", "inhalt":"Schreiben eines Arbeitsberichtes", "hours":2},
+			{"fach":"Sport", "inhalt":"Krafttraining, Volleyball Technik", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-05-04",
+		"inhalt":[
+			{"fach":"Installation", "inhalt":"Elektrische Leitungen, Kennzeichnung und Verlegearten", "hours":2},
+			{"fach":"Arbeitsmethodik", "inhalt":"IQ-Test, Künstliche Inteligenz", "hours":2}
+		]
+	},
+	"----------------------------------------------------------------------------"
+	"07.05.18 - 11.05.18"
+	"week : 5"
+	{
+		"tag":"2018-05-07",
+		"inhalt":[
+			{"fach":"Webentwicklung", "inhalt":"Responsive Design, Entwicklung einer Website", "hours":3},
+			{"fach":"Betriebssysteme", "inhalt":"Klassenarbeit: Zweck und Architekturen von Betriebssystemen, Sheduling", "hours":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Sozialer Arbeitsschutz", "hours":2}
+		]
+	},
+	{
+		"tag":"2018-05-08",
+		"inhalt":[
+			{"fach":"Hardware", "inhalt":"BUS-Systeme", "hours":1},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Lebenskreislauf, Konfliktbewältigung", "hours":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"Analyse und Synthese von logischen Schaltungen", "hours":1},
+			{"fach":"Projektierung", "inhalt":"Projektumfeld", "hours":2},
+			{"fach":"Java", "inhalt":"Aufgaben, Methoden von Klassen", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-05-09",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik", "inhalt":"Analyse und Synthese von logischen Schaltungen", "hours":2},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Ursprünge des Rechts", "hours":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Leistungskontrolle Marktformen und Preisbildung, Verträge", "hours":3}
+		]
+	},
+	{
+		"tag":"2018-05-10",
+		"inhalt":[
+			{"fach":"", "inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
+		]
+	},
+	{
+		"tag":"2018-05-11",
+		"inhalt":[
+			{"fach":"", "inhalt":"Brückentag", "hours":8, "data":"FEIERTAG"}
+		]
+	},
 ]
