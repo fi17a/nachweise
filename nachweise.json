@@ -552,14 +552,13 @@
 		"tag":"2018-09-04",
 		"inhalt":[
 			{"fach":"Deutsch", "inhalt": "Rethorik in Sozialen Medien", "stunden": 2},
-			{"fach":"Datenbanken", "inhalt": "Typen von Datenbanken und Verwendung", "stunden": 2},
 			{"fach":"Netze", "inhalt": "Übersicht Netze in lokalen Systemen", "stunden": 4}
 		]
 	},
 	{
 		"tag":"2018-09-05",
 		"inhalt":[
-			{"fach":"Datenbanken", "inhalt": "", "stunden": 3},
+			{"fach":"Datenbanken", "inhalt": "Typen von Datenbanken und Verwendung", "stunden": 2},
 			{"fach":"Projektierung", "inhalt": "Referat Präsentieren", "stunden": 4}
 		]
 	},
@@ -567,7 +566,7 @@
 		"tag":"2018-09-06",
 		"inhalt":[
 			{"fach":"Arbeitsmethodik", "inhalt": "Zeitmanagement", "stunden": 2},
-			{"fach":"Wirtschaftskunde", "inhalt": "", "stunden": 1},
+			{"fach":"Wirtschaftskunde", "inhalt": "Fertigstellen von Arbeitsmethodik Stoff aus letztem Jahr", "stunden": 1},
 			{"fach":"Netze", "inhalt": "", "stunden": 2},
 			{"fach":"Englisch", "inhalt": "Social Media und warum", "stunden": 2}
 		]
@@ -575,9 +574,9 @@
 	{
 		"tag":"2018-09-07",
 		"inhalt":[
-			{"fach":"Wirtschaftskunde", "inhalt": "Fertigstellen von Arbeitsmethodik Stoff aus letztem Jahr", "stunden": 2},
-			{"fach":"Datenbanken", "inhalt": "Beispiel Daten bunkern", "stunden": 1},
-			{"fach":"Englisch", "inhalt": "Hörbuch über Socialmedia", "stunden": 2}
+			{"fach":"Wirtschaftskunde", "inhalt": "Vertragsrecht", "stunden": 2},
+			{"fach":"Datenbanken", "inhalt": "Beispiel Daten Hierarchie", "stunden": 1},
+			{"fach":"Englisch", "inhalt": "Hörverstehen über Socialmedia", "stunden": 2}
 		]
 	},
 	{
@@ -585,14 +584,14 @@
 		"inhalt":[
 			{"fach":"Betriebswirtschaftliche Geschäftsprozesse", "inhalt": "Arbeit 1 / Arbeit 2", "stunden": 3},
 			{"fach":"C#", "inhalt": "Grundlagen und Klassen", "stunden": 2},
-			{"fach":"Deutsch", "inhalt": "Interview", "stunden": 2},
+			{"fach":"Deutsch", "inhalt": "4-Seiten-Modell", "stunden": 1},
 			{"fach":"Webentwicklung", "inhalt": "Präsentation alter Projekte", "stunden": 2}
 		]
 	},
 	{
 		"tag":"2018-09-11",
 		"inhalt":[
-			{"fach":"Deutsch", "inhalt": "Interview Informationen besprechung", "stunden": 1},
+			{"fach":"Deutsch", "inhalt": "Interview Informationen besprechung", "stunden": 2},
 			{"fach":"Sport", "inhalt": "Sportübungen und Tischtennis", "stunden": 2},
 			{"fach":"Netze", "inhalt": "TCI und Netzarten", "stunden": 2}
 		]
@@ -611,23 +610,22 @@
 		"inhalt":[
 			{"fach":"Öffentliche Netze", "inhalt": "Öffentliche Netz definitionen", "stunden": 2},
 			{"fach":"Wirtschaftskunde", "inhalt": "Gründung von Firma", "stunden": 2},
-			{"fach":"Netze", "inhalt": "Netztopologien", "stunden": 2},
-			{"fach":"Deutsch", "inhalt": "4-Seiten-Modell", "stunden": 2}
+			{"fach":"Netze", "inhalt": "Netztopologien", "stunden": 1}
 		]
 	},
 	{
 		"tag":"2018-09-14",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde", "inhalt": "LK Kaufvertrag", "stunden": 2},
-			{"fach":"Englisch", "inhalt": "Hörbuch", "stunden": 2},
+			{"fach":"Englisch", "inhalt": "Hörverstehen", "stunden": 2},
 			{"fach":"Datenbanken", "inhalt": "Arten von Baum- und Netzwerk", "stunden": 3}
 		]
 	},
 	{
 		"tag":"2018-09-17",
 		"inhalt":[
-			{"fach":"Deutsch", "inhalt": "", "stunden": 2},
-			{"fach":"Betriebswirtschaftliche Geschäftsprozesse", "inhalt": "Firmengründung", "stunden": 2},
+			{"fach":"Deutsch", "inhalt": "", "stunden": 1},
+			{"fach":"Betriebswirtschaftskunde", "inhalt": "Firmengründung", "stunden": 2},
 			{"fach":"C#", "inhalt": "Einteilung und Geschichte von C#", "stunden": 3},
 			{"fach":"Webentwicklung", "inhalt": "Arrays", "stunden": 2}
 		]
@@ -644,17 +642,17 @@
 		"tag":"2018-09-19",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde", "inhalt": "Definition Politik", "stunden": 2},
-			{"fach":"Java", "inhalt": "Array sorting", "stunden": 2},
+			{"fach":"Java", "inhalt": "Array sortierung", "stunden": 2},
 			{"fach":"Projektierung", "inhalt": "Pflichten- und Lastenheft Beispiel", "stunden": 3},
-			{"fach":"Datenbanken", "inhalt": "Anfang Relationale", "stunden": 2}
+			{"fach":"Datenbanken", "inhalt": "Anfang relationale Datenbanken", "stunden": 2}
 		]
 	},
 	{
 		"tag":"2018-09-20",
 		"inhalt":[
 			{"fach":"Öffentliche Netze", "inhalt": "Definition Öfentliche Netze", "stunden": 2},
-			{"fach":"Wirtschaftskunde", "inhalt": "Kaufverträge", "stunden": 2},
-			{"fach":"Netze", "inhalt": "Eigenbeschäftigung Übungen", "stunden": 2},
+			{"fach":"Wirtschaftskunde", "inhalt": "Kaufverträge", "stunden": 1},
+			{"fach":"Netze", "inhalt": "Eigenbeschäftigung Übungen", "stunden": 1},
 			{"fach":"Englisch", "inhalt": "Prüfungsbesprechung und Aufgaben", "stunden": 2}
 		]
 	},
@@ -837,7 +835,7 @@
 			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherschutz","stunden":1},
 			{"fach":"C#","inhalt":"Programmbeispiel: Guadratische Gleichungen","stunden":2},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Stellenbildung, Abteilungssysteme","stunden":2},
-			{"fach":"Deutsch","inhalt":"","stunden":1},
+			{"fach":"Deutsch","inhalt":"Personenbeurteilung","stunden":1},
 			{"fach":"Webseitengestaltung","inhalt":"Canvas","stunden":2}
 		]
 	},
@@ -845,7 +843,7 @@
 		"tag":"2019-03-05",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag","stunden":1},
-			{"fach":"Deutsch","inhalt":"","stunden":2},
+			{"fach":"Deutsch","inhalt":"Personenbeurteilung","stunden":2},
 			{"fach":"Sport","inhalt":"","stunden":2},
 			{"fach":"Netze","inhalt":"OSI - Link data layer","stunden":1}
 		]
@@ -864,7 +862,7 @@
 			{"fach":"öffentliche Netze","inhalt":"Einteilung der öffentliche Netze","stunden":2},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Leistungskontrolle","stunden":1},
 			{"fach":"Netze","inhalt":"OSI - Link data layer","stunden":1},
-			{"fach":"Englisch","inhalt":"","stunden":2}
+			{"fach":"Englisch","inhalt":"Telephoning","stunden":2}
 		]
 	},
 	{
@@ -872,7 +870,7 @@
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherschutz, Warenkennzeichung","stunden":2},
 			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Carsharing","stunden":1},
-			{"fach":"Englisch","inhalt":"","stunden":2}
+			{"fach":"Englisch","inhalt":"Telephoning","stunden":2}
 		]
 	},
 	{
@@ -889,7 +887,7 @@
 		"tag":"2019-03-12",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag","stunden":1},
-			{"fach":"Deutsch","inhalt":"","stunden":2},
+			{"fach":"Deutsch","inhalt":"Protokollführung","stunden":2},
 			{"fach":"Sport","inhalt":"","stunden":2},
 			{"fach":"Netze","inhalt":"OSI - Network layer","stunden":1}
 		]
@@ -908,7 +906,7 @@
 			{"fach":"öffentliche Netze","inhalt":"Einteilung der öffentliche Netze","stunden":2},
 			{"fach":"Wirtschaftskunde","inhalt":"Marketing","stunden":1},
 			{"fach":"Netze","inhalt":"OSI - Link data layer","stunden":1},
-			{"fach":"Englisch","inhalt":"","stunden":2}
+			{"fach":"Englisch","inhalt":"Telephoning","stunden":2}
 		]
 	},
 	{
