@@ -382,5 +382,131 @@
 	{
 		"tag":"2018-05-11",
 		"inhalt":{"inhalt":"Brückentag","stunden":8}
+	},
+	{
+		"tag":"2018-09-03",
+		"inhalt":[
+			{"inhalt": "Einführung in Neues Schuljahr", "stunden": 3},
+			{"fach":"Gemeinschaftskunde", "inhalt": "Wiederholung", "stunden": 2},
+			{"fach":"Webentwicklung", "inhalt": "Einführung in JS", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-04",
+		"inhalt":[
+			{"fach":"Deutsch", "inhalt": "Rethorik in Sozialen Medien", "stunden": 2},
+			{"fach":"Datenbanken", "inhalt": "Typen von Datenbanken und Verwendung", "stunden": 2},
+			{"fach":"Netze", "inhalt": "Übersicht Netze in lokalen Systemen", "stunden": 4}
+		]
+	},
+	{
+		"tag":"2018-09-05",
+		"inhalt":[
+			{"fach":"Datenbanken", "inhalt": "", "stunden": 3},
+			{"fach":"Projektierung", "inhalt": "Referat Präsentieren", "stunden": 4}
+		]
+	},
+	{
+		"tag":"2018-09-06",
+		"inhalt":[
+			{"fach":"Arbeitsmethodik", "inhalt": "Zeitmanagement", "stunden": 2},
+			{"fach":"Wirtschaftskunde", "inhalt": "", "stunden": 1},
+			{"fach":"Netze", "inhalt": "", "stunden": 2},
+			{"fach":"Englisch", "inhalt": "Social Media und warum", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-07",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde", "inhalt": "Fertigstellen von Arbeitsmethodik Stoff aus letztem Jahr", "stunden": 2},
+			{"fach":"Datenbanken", "inhalt": "Beispiel Daten bunkern", "stunden": 1},
+			{"fach":"Englisch", "inhalt": "Hörbuch über Socialmedia", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-10",
+		"inhalt":[
+			{"fach":"Betriebswirtschaftliche Geschäftsprozesse", "inhalt": "Arbeit 1 / Arbeit 2", "stunden": 3},
+			{"fach":"C#", "inhalt": "Grundlagen und Klassen", "stunden": 2},
+			{"fach":"Deutsch", "inhalt": "Interview", "stunden": 2},
+			{"fach":"Webentwicklung", "inhalt": "Präsentation alter Projekte", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-11",
+		"inhalt":[
+			{"fach":"Deutsch", "inhalt": "Interview Informationen besprechung", "stunden": 1},
+			{"fach":"Sport", "inhalt": "Sportübungen und Tischtennis", "stunden": 2},
+			{"fach":"Netze", "inhalt": "TCI und Netzarten", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-12",
+		"inhalt":[
+			{"fach":"Datenbanken", "inhalt": "Detaillierter DB Aufbau", "stunden": 1},
+			{"fach":"Java", "inhalt": "Neueinstieg in Thema", "stunden": 2},
+			{"fach":"Projektierung", "inhalt": "Vorträge und Auswertungen", "stunden": 3},
+			{"fach":"Gemeinschaftskunde", "inhalt": "Vorstellung von Themen und Planung", "stunden": 1}
+		]
+	},
+	{
+		"tag":"2018-09-13",
+		"inhalt":[
+			{"fach":"Öffentliche Netze", "inhalt": "Öffentliche Netz definitionen", "stunden": 2},
+			{"fach":"Wirtschaftskunde", "inhalt": "Gründung von Firma", "stunden": 2},
+			{"fach":"Netze", "inhalt": "Netztopologien", "stunden": 2},
+			{"fach":"Deutsch", "inhalt": "4-Seiten-Modell", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-14",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde", "inhalt": "LK Kaufvertrag", "stunden": 2},
+			{"fach":"Englisch", "inhalt": "Hörbuch", "stunden": 2},
+			{"fach":"Datenbanken", "inhalt": "Arten von Baum- und Netzwerk", "stunden": 3}
+		]
+	},
+	{
+		"tag":"2018-09-17",
+		"inhalt":[
+			{"fach":"Deutsch", "inhalt": "", "stunden": 2},
+			{"fach":"Betriebswirtschaftliche Geschäftsprozesse", "inhalt": "Firmengründung", "stunden": 2},
+			{"fach":"C#", "inhalt": "Einteilung und Geschichte von C#", "stunden": 3},
+			{"fach":"Webentwicklung", "inhalt": "Arrays", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-18",
+		"inhalt":[
+			{"fach":"Deutsch", "inhalt": "Kommunikationsmodelle", "stunden": 2},
+			{"fach":"Gemeinschaftskunde", "inhalt": "Begriff Politik über die Zeit", "stunden": 2},
+			{"fach":"Sport", "inhalt": "40min-Lauf", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-19",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde", "inhalt": "Definition Politik", "stunden": 2},
+			{"fach":"Java", "inhalt": "Array sorting", "stunden": 2},
+			{"fach":"Projektierung", "inhalt": "Pflichten- und Lastenheft Beispiel", "stunden": 3},
+			{"fach":"Datenbanken", "inhalt": "Anfang Relationale", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-20",
+		"inhalt":[
+			{"fach":"Öffentliche Netze", "inhalt": "Definition Öfentliche Netze", "stunden": 2},
+			{"fach":"Wirtschaftskunde", "inhalt": "Kaufverträge", "stunden": 2},
+			{"fach":"Netze", "inhalt": "Eigenbeschäftigung Übungen", "stunden": 2},
+			{"fach":"Englisch", "inhalt": "Prüfungsbesprechung und Aufgaben", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2018-09-21",
+		"inhalt":[
+			{"fach":"Englisch", "inhalt": "Hörbuch anhören und Diskutieren", "stunden": 2},
+			{"fach":"Wirtschaftskunde", "inhalt": "Kaufvertrag und Sonderformen", "stunden": 2},
+			{"fach":"Datenbanken", "inhalt": "LK Datenbanken", "stunden": 1}
+		]
 	}
 ]
