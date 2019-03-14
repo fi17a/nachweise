@@ -2,395 +2,393 @@
 	{
 		"tag":"2017-09-18",
 		"inhalt":[
-			{"fach":"","inhalt":"Aufname in das Beruflische Schulzentrum e. o. Plauen"},
-			{"fach":"","inhalt":"Erledigung der Formalitäten und Rundgang des Schulzentrums"}
+			{"fach":"","inhalt":"Aufname in das Beruflische Schulzentrum e. o. Plauen","stunden":1},
+			{"fach":"","inhalt":"Erledigung der Formalitäten und Rundgang des Schulzentrums","stunden":4}
 		]
 	},
 	{
 		"tag":"2017-09-19",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"Einführung und Mainboard"},
-			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation"},
-			{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme"},
-			{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess"},
-			{"fach":"Programmierung mit Java","inhalt":"Einführung und Syntax"}
+			{"fach":"Hardware","inhalt":"Einführung und Mainboard","stunden":1},
+			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation","stunden":1},
+			{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme","stunden":1},
+			{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess","stunden":2},
+			{"fach":"Programmierung mit Java","inhalt":"Einführung und Syntax","stunden":3}
 		]
 	},
 	{
 		"tag":"2017-09-20",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme: Umwandlung"},
-			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation"},
-			{"fach":"Wirtschaftskunde","inhalt":"Bedarf, Bedürfnisse, Nachfrage"}
+			{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme: Umwandlung","stunden":2},
+			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation","stunden":1},
+			{"fach":"Wirtschaftskunde","inhalt":"Bedarf, Bedürfnisse, Nachfrage","stunden":3}
 		]
 	},
 	{
 		"tag":"2017-09-21",
 		"inhalt":[
-			{"fach":"Englisch","inhalt":"Einführung"},
-			{"fach":"Hardware","inhalt":"Mainboard"},
-			{"fach":"Deutsch","inhalt":"Kommunikation und Sprache"},
-			{"fach":"Sport","inhalt":"Einführung und Übersicht"}
+			{"fach":"Englisch","inhalt":"Einführung","stunden":2},
+			{"fach":"Hardware","inhalt":"Mainboard","stunden":1},
+			{"fach":"Deutsch","inhalt":"Kommunikation und Sprache","stunden":2},
+			{"fach":"Sport","inhalt":"Einführung und Übersicht","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-09-22",
 		"inhalt":[
-			{"fach":"Installation","inhalt":"Stromerzeugung und Übertragung"},
-			{"fach":"Arbeitsmethodik","inhalt":"Anforderungen an IT Mitarbeiter"},
-			{"fach":"Betriebswirtschaftskunde","inhalt":"Einführung"}
+			{"fach":"Installation","inhalt":"Stromerzeugung und Übertragung","stunden":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Anforderungen an IT Mitarbeiter","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Einführung","stunden":1}
 		]
 	},
 	{
 		"tag":"2017-09-25",
 		"inhalt":[
-			{"fach":"Webseitengestaltung","inhalt":"HTML Einführung und Syntax"},
-			{"fach":"Betriebssysteme","inhalt":"Einführung"}
+			{"fach":"Webseitengestaltung","inhalt":"HTML Einführung und Syntax","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Einführung","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-09-26",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"Prozessor Arbeitsprinzip"},
-			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation"},
-			{"fach":"Grundlagen der Informatik","inhalt":""},
-			{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess"},
-			{"fach":"Programmierung mit Java","inhalt":"Syntax"}
+			{"fach":"Hardware","inhalt":"Prozessor Arbeitsprinzip","stunden":1},
+			{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation","stunden":1},
+			{"fach":"Grundlagen der Informatik","inhalt":"","stunden":1},
+			{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess","stunden":2},
+			{"fach":"Programmierung mit Java","inhalt":"Syntax","stunden":3}
 		]
 	},
 	{
 		"tag":"2017-09-27",
-		"inhalt":[
-			{"fach":"Sportfest","inhalt":"Sportfest"}
-		]
+		"inhalt":{"inhalt":"Sportfest","stunden":5}
 	},
 	{
 		"tag":"2017-09-28",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"Prozessor Arbeitsprinzip"},
-			{"fach":"Deutsch","inhalt":"Kommunikation"},
-			{"fach":"Sport","inhalt":"Dauerlauf"}
+			{"fach":"Hardware","inhalt":"Prozessor Arbeitsprinzip","stunden":1},
+			{"fach":"Deutsch","inhalt":"Kommunikation","stunden":2},
+			{"fach":"Sport","inhalt":"Dauerlauf","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-09-29",
 		"inhalt":[
-			{"fach":"Installation","inhalt":"Stromnetze"},
-			{"fach":"Arbeitsmethodik","inhalt":"Kommunikation"},
-			{"fach":"Betriebswirtschaftskunde","inhalt":"Berufsbildung"}
+			{"fach":"Installation","inhalt":"Stromnetze","stunden":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Kommunikation","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Berufsbildung","stunden":1}
 		]
 	},
 	{
 		"tag":"2017-11-27",
 		"inhalt":[
-			{"fach":"Webseitengestaltung","inhalt":"Listen, Quellpfade, Bilder"},
-			{"fach":"Betriebssysteme","inhalt":"Aufgaben und Funktionen von Betriebssystemen"}
+			{"fach":"Webseitengestaltung","inhalt":"Listen, Quellpfade, Bilder","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Aufgaben und Funktionen von Betriebssystemen","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-11-28",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"Wiederholung"},
-			{"fach":"Gemeinschaftskunde","inhalt":"Persönliche Kompetenzen"},
-			{"fach":"Grundlagen der Informatik","inhalt":"Wiederholung"},
-			{"fach":"Projektierung","inhalt":"Qualität von Software"},
-			{"fach":"Java","inhalt":"For- und While-Schleifen"}
+			{"fach":"Hardware","inhalt":"Wiederholung","stunden":1},
+			{"fach":"Gemeinschaftskunde","inhalt":"Persönliche Kompetenzen","stunden":1},
+			{"fach":"Grundlagen der Informatik","inhalt":"Wiederholung","stunden":1},
+			{"fach":"Projektierung","inhalt":"Qualität von Software","stunden":2},
+			{"fach":"Java","inhalt":"For- und While-Schleifen","stunden":3}
 		]
 	},
 	{
 		"tag":"2017-11-29",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik","inhalt":"Rechnen mit Dualzahlen"},
-			{"fach":"Gemeinschaftskunde","inhalt":"Soziale und fachliche Kompetenzen"},
-			{"fach":"Installationstechnik","inhalt":"Spannungsbereiche und Schutzklassen"}
+			{"fach":"Grundlagen der Informatik","inhalt":"Rechnen mit Dualzahlen","stunden":2},
+			{"fach":"Gemeinschaftskunde","inhalt":"Soziale und fachliche Kompetenzen","stunden":1},
+			{"fach":"Installationstechnik","inhalt":"Spannungsbereiche und Schutzklassen","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-11-30",
 		"inhalt":[
-			{"fach":"Englisch","inhalt":"Multiple choice + Bericht Schreiben"},
-			{"fach":"Hardware","inhalt":"Aufbau und Entwicklung von Prozessoren"},
-			{"fach":"Deutsch","inhalt":"Zusammenfassung Kommunikation, Sprachebenen"}
+			{"fach":"Englisch","inhalt":"Multiple choice + Bericht Schreiben","stunden":2},
+			{"fach":"Hardware","inhalt":"Aufbau und Entwicklung von Prozessoren","stunden":1},
+			{"fach":"Deutsch","inhalt":"Zusammenfassung Kommunikation, Sprachebenen","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-12-01",
 		"inhalt":[
-			{"fach":"Installation","inhalt":"Maßnahmen zum Personenschutz"},
-			{"fach":"Arbeitsmethodik","inhalt":"Kommunikationsregeln"}
+			{"fach":"Installation","inhalt":"Maßnahmen zum Personenschutz","stunden":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Kommunikationsregeln","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-12-04",
 		"inhalt":[
-			{"fach":"Webentwicklung","inhalt":"Tabellen, iframes, Formulare"},
-			{"fach":"Betriebssysteme","inhalt":"Arten der Betriebssysteme"},
-			{"fach":"Wirtschaftskunde","inhalt":"Berufsbildungsgesetz"}
+			{"fach":"Webgestaltung","inhalt":"Tabellen, iframes, Formulare","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Arten der Betriebssysteme","stunden":2},
+			{"fach":"Wirtschaftskunde","inhalt":"Berufsbildungsgesetz","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-12-05",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"CPU Rechenleistung und Kühlung"},
-			{"fach":"Gemeinschaftskunde","inhalt":"Wiederholung Kompetenzen"},
-			{"fach":"Wirtschaftskunde","inhalt":"Arbeitsblätter und Aufgaben zum BBG"},
-			{"fach":"Projektierung","inhalt":"Projektorganisation"},
-			{"fach":"Java","inhalt":"Java"}
+			{"fach":"Hardware","inhalt":"CPU Rechenleistung und Kühlung","stunden":1},
+			{"fach":"Gemeinschaftskunde","inhalt":"Wiederholung Kompetenzen","stunden":1},
+			{"fach":"Wirtschaftskunde","inhalt":"Arbeitsblätter und Aufgaben zum BBG","stunden":1},
+			{"fach":"Projektierung","inhalt":"Projektorganisation","stunden":2},
+			{"fach":"Java","inhalt":"Java","stunden":3}
 		]
 	},
 	{
 		"tag":"2017-12-06",
 		"inhalt":[
-			{"fach":"Gemeinschaftskunde","inhalt":"Leistungskontrolle"},
-			{"fach":"Grundlagen der Informatik","inhalt":"Hexadezimal Umwandlung"}
+			{"fach":"Gemeinschaftskunde","inhalt":"Leistungskontrolle","stunden":1},
+			{"fach":"Grundlagen der Informatik","inhalt":"Hexadezimal Umwandlung","stunden":3}
 		]
 	},
 	{
 		"tag":"2017-12-07",
 		"inhalt":[
-			{"fach":"Englisch","inhalt":"Textverständnis und Übersetzungen"},
-			{"fach":"Hardware","inhalt":"Leistungskontrolle"},
-			{"fach":"Deutsch","inhalt":"Leistungskontrolle, Definition von Sprache"}
+			{"fach":"Englisch","inhalt":"Textverständnis und Übersetzungen","stunden":2},
+			{"fach":"Hardware","inhalt":"Leistungskontrolle","stunden":1},
+			{"fach":"Deutsch","inhalt":"Leistungskontrolle, Definition von Sprache","stunden":2}
 		]
 	},
 	{
 		"tag":"2017-12-08",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik","inhalt":"Leistungskontrolle"},
-			{"fach":"Installation","inhalt":""},
-			{"fach":"Arbeitsmethodik","inhalt":""}
+			{"fach":"Grundlagen der Informatik","inhalt":"Leistungskontrolle","stunden":1},
+			{"fach":"Installation","inhalt":"","stunden":1},
+			{"fach":"Arbeitsmethodik","inhalt":"","stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-15",
 		"inhalt":[
-			{"fach":"Webentwicklung","inhalt":"HTML, CSS-Selektoren"},
-			{"fach":"Betriebssysteme","inhalt":"Echtzeit-Systeme, Dialogverarbeitung"},
-			{"fach":"Betriebswirtschaftskunde","inhalt":"Fortbildung"}
+			{"fach":"Webgestaltung","inhalt":"HTML, CSS-Selektoren","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Echtzeit-Systeme, Dialogverarbeitung","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Fortbildung","stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-16",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"Wiederholung Prozessor, Chipsatz"},
-			{"fach":"English","inhalt":"Aufgaben, Textübersetzung"},
-			{"fach":"Grundlagen der Informatik","inhalt":"Logische Schaltungen"},
-			{"fach":"Programmierung mit Java","inhalt":"Grundlagen, Wiederholung, Übung"}
+			{"fach":"Hardware","inhalt":"Wiederholung Prozessor, Chipsatz","stunden":1},
+			{"fach":"English","inhalt":"Aufgaben, Textübersetzung","stunden":1},
+			{"fach":"Grundlagen der Informatik","inhalt":"Logische Schaltungen","stunden":3},
+			{"fach":"Programmierung mit Java","inhalt":"Grundlagen, Wiederholung, Übung","stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-17",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik","inhalt":"Logische Schaltungen"},
-			{"fach":"Betriebswirtschaft","inhalt":"Bedarf, Bedürfnis, Nachfrage"}
+			{"fach":"Grundlagen der Informatik","inhalt":"Logische Schaltungen","stunden":2},
+			{"fach":"Betriebswirtschaft","inhalt":"Bedarf, Bedürfnis, Nachfrage","stunden":3}
 		]
 	},
 	{
 		"tag":"2018-01-18",
 		"inhalt":[
-			{"fach":"Hardware","inhalt":"Chipsatz"},
-			{"fach":"Deutsch","inhalt":"Wortarten"}
+			{"fach":"Hardware","inhalt":"Chipsatz","stunden":1},
+			{"fach":"Deutsch","inhalt":"Wortarten","stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-19",
 		"inhalt":[
-			{"fach":"Installation","inhalt":"Schutzleiter, Schutzklassen, FI-Schutzschalter"},
-			{"fach":"Arbeitsmethodik","inhalt":"Team, Teamfähigkeit, Klassenarbeit"}
+			{"fach":"Installation","inhalt":"Schutzleiter, Schutzklassen, FI-Schutzschalter","stunden":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Team, Teamfähigkeit, Klassenarbeit","stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-22",
 		"inhalt":[
-			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren", "hours":3},
-			{"fach":"Betriebssysteme", "inhalt":"Qualitätsansprüche, Architekturen und Betriebssysteme", "hours":2},
-			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsleistung", "hours":2}
+			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren", "stunden":3},
+			{"fach":"Betriebssysteme", "inhalt":"Qualitätsansprüche, Architekturen und Betriebssysteme", "stunden":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsleistung", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-23",
 		"inhalt":[
-			{"fach":"Hardware", "inhalt":"elektronischer Speicher", "hours":1},
-			{"fach":"Grundlagen der Informatik", "inhalt":"Aufgaben zu logischen Schaltungen", "hours":1},
-			{"fach":"Projektierung", "inhalt":"Wirtschaftlichkeitsbetrachtung, Merkmale eines Projektes", "hours":2},
-			{"fach":"Java", "inhalt":"Switch, Fehlerbehandlung", "hours":3}
+			{"fach":"Hardware", "inhalt":"elektronischer Speicher", "stunden":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"Aufgaben zu logischen Schaltungen", "stunden":1},
+			{"fach":"Projektierung", "inhalt":"Wirtschaftlichkeitsbetrachtung, Merkmale eines Projektes", "stunden":2},
+			{"fach":"Java", "inhalt":"Switch, Fehlerbehandlung", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-01-24",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik", "inhalt":"Laborversuch mit logischen Schaltungen", "hours":2},
-			{"fach":"Betriebswirtschaft", "inhalt":"Wirtschaftskreislauf", "hours":4}
+			{"fach":"Grundlagen der Informatik", "inhalt":"Laborversuch mit logischen Schaltungen", "stunden":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Wirtschaftskreislauf", "stunden":4}
 		]
 	},
 	{
 		"tag":"2018-01-25",
 		"inhalt":[
-			{"fach":"Englisch", "inhalt":"Argumentative Diskursführung", "hours":2},
-			{"fach":"Hardware", "inhalt":"ROM-Speicher, Flash-Speicher", "hours":1},
-			{"fach":"Deutsch", "inhalt":"Wortarten", "hours":2}
+			{"fach":"Englisch", "inhalt":"Argumentative Diskursführung", "stunden":2},
+			{"fach":"Hardware", "inhalt":"ROM-Speicher, Flash-Speicher", "stunden":1},
+			{"fach":"Deutsch", "inhalt":"Wortarten", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-01-26",
 		"inhalt":[
-			{"fach":"Installation","inhalt":"Sicherungen (Überstromschutz)", "hours":2},
-			{"fach":"Arbeitsmethodik","inhalt":"Teamentwicklung", "hours":2}
+			{"fach":"Installation","inhalt":"Sicherungen (Überstromschutz)", "stunden":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Teamentwicklung", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-03-19",
 		"inhalt":[
-			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren, Pseudoklassen", "hours":3},
-			{"fach":"Betriebssysteme", "inhalt":"Geschichtete Systeme", "hours":2},
-			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsbedingungen", "hours":2}
+			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren, Pseudoklassen", "stunden":3},
+			{"fach":"Betriebssysteme", "inhalt":"Geschichtete Systeme", "stunden":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsbedingungen", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-03-20",
 		"inhalt":[
-			{"fach":"Hardware", "inhalt":"nicht flüchtige und flüchtige Speicher", "hours":1},
-			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "hours":1},
-			{"fach":"Grundlagen der Informatik", "inhalt":"Synthese logischer Schaltungen", "hours":1},
-			{"fach":"Projektierung", "inhalt":"Projektauftrag", "hours":2},
-			{"fach":"Java", "inhalt":"Aufgaben", "hours":3}
+			{"fach":"Hardware", "inhalt":"nicht flüchtige und flüchtige Speicher", "stunden":1},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "stunden":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"Synthese logischer Schaltungen", "stunden":1},
+			{"fach":"Projektierung", "inhalt":"Projektauftrag", "stunden":2},
+			{"fach":"Java", "inhalt":"Aufgaben", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-03-21",
 		"inhalt":[
-			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "hours":1},
-			{"fach":"Betriebswirtschaft", "inhalt":"Aufgaben, Wirtschaftlichkeit", "hours":3}
+			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "stunden":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Aufgaben, Wirtschaftlichkeit", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-03-22",
 		"inhalt":[
-			{"fach":"Englisch", "inhalt":"Sprachlicher Habitus in Besprechungen", "hours":2},
-			{"fach":"Hardware", "inhalt":"flüchtige Speicher (RAM)", "hours":1},
-			{"fach":"Deutsch", "inhalt":"Leistungskontrolle Wortarten, Schreiben eines Berichtes", "hours":2},
-			{"fach":"Sport", "inhalt":"Kraftübungen", "hours":2}
+			{"fach":"Englisch", "inhalt":"Sprachlicher Habitus in Besprechungen", "stunden":2},
+			{"fach":"Hardware", "inhalt":"flüchtige Speicher (RAM)", "stunden":1},
+			{"fach":"Deutsch", "inhalt":"Leistungskontrolle Wortarten, Schreiben eines Berichtes", "stunden":2},
+			{"fach":"Sport", "inhalt":"Kraftübungen", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-03-23",
 		"inhalt":[
-			{"fach":"Installation", "inhalt":"Sicherungen, Elektrische Leitungen", "hours":2},
-			{"fach":"Arbeitsmethodik", "inhalt":"Teamentwicklung", "hours":2}
+			{"fach":"Installation", "inhalt":"Sicherungen, Elektrische Leitungen", "stunden":2},
+			{"fach":"Arbeitsmethodik", "inhalt":"Teamentwicklung", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-03-26",
 		"inhalt":[
-			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren", "hours":3},
-			{"fach":"Betriebssysteme", "inhalt":"Virtuelle Maschinen, Client-Server-Prinzip", "hours":2},
-			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsschutz, Leistungskontrolle Arbeitsleistung", "hours":2}
+			{"fach":"Webentwicklung", "inhalt":"CSS-Selectoren", "stunden":3},
+			{"fach":"Betriebssysteme", "inhalt":"Virtuelle Maschinen, Client-Server-Prinzip", "stunden":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Arbeitsschutz, Leistungskontrolle Arbeitsleistung", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-03-27",
 		"inhalt":[
-			{"fach":"Hardware", "inhalt":"Speicherbauformen", "hours":1},
-			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "hours":1},
-			{"fach":"Grundlagen der Informatik", "inhalt":"KV-Diagramme", "hours":1},
-			{"fach":"Projektierung", "inhalt":"Projektteam", "hours":2},
-			{"fach":"Java", "inhalt":"Aufgaben", "hours":3}
+			{"fach":"Hardware", "inhalt":"Speicherbauformen", "stunden":1},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Gruppen", "stunden":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"KV-Diagramme", "stunden":1},
+			{"fach":"Projektierung", "inhalt":"Projektteam", "stunden":2},
+			{"fach":"Java", "inhalt":"Aufgaben", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-03-28",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik", "inhalt":"logische Schaltungen, KV-Diagramme", "hours":2},
-			{"fach":"Gemeinschaftskunde", "inhalt":"Lebensformen der Familien", "hours":1},
-			{"fach":"Betriebswirtschaft", "inhalt":"Leistungskontrolle, Preisbildung", "hours":3}
+			{"fach":"Grundlagen der Informatik", "inhalt":"logische Schaltungen, KV-Diagramme", "stunden":2},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Lebensformen der Familien", "stunden":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Leistungskontrolle, Preisbildung", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-03-29",
 		"inhalt":[
-			{"fach":"", "inhalt":"", "hours":8, "data":"BETRIEB"}
+			{"fach":"", "inhalt":"", "stunden":8, "data":"BETRIEB"}
 		]
 	},
 	{
 		"tag":"2018-03-30",
 		"inhalt":[
-			{"fach":"","inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
+			{"fach":"","inhalt":"Feiertag", "stunden":8, "data":"FEIERTAG"}
 		]
 	},
 	{
 		"tag":"2018-04-30",
 		"inhalt":[
-			{"fach":"Webentwicklung", "inhalt":"CSS Eigenschaften: position, float, flex-box", "hours":3},
-			{"fach":"Betriebssysteme", "inhalt":"Client-Server-Prinzip, Prozesssteuerung", "hours":2},
-			{"fach":"Betriebswirtschaft", "inhalt":"Sozialer Arbeitsschutz", "hours":2}
+			{"fach":"Webentwicklung", "inhalt":"CSS Eigenschaften: position, float, flex-box", "stunden":3},
+			{"fach":"Betriebssysteme", "inhalt":"Client-Server-Prinzip, Prozesssteuerung", "stunden":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Sozialer Arbeitsschutz", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-05-01",
 		"inhalt":[
-			{"fach":"", "inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
+			{"fach":"", "inhalt":"Feiertag", "stunden":8, "data":"FEIERTAG"}
 		]
 	},
 	{
 		"tag":"2018-05-02",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik", "inhalt":"KV-Diagramme", "hours":3},
-			{"fach":"Gemeinschaftskunde", "inhalt":"Lebensformen der Familien, Lebenskreislauf", "hours":1},
-			{"fach":"Betriebswirtschaft", "inhalt":"Preisbildung, Rechtliche Rahmenbedingungen des wirtschaftlichen Handels", "hours":3}
+			{"fach":"Grundlagen der Informatik", "inhalt":"KV-Diagramme", "stunden":3},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Lebensformen der Familien, Lebenskreislauf", "stunden":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Preisbildung, Rechtliche Rahmenbedingungen des wirtschaftlichen Handels", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-05-03",
 		"inhalt":[
-			{"fach":"Englisch", "inhalt":"Zeitformen", "hours":2},
-			{"fach":"Hardware", "inhalt":"Bus-Systeme", "hours":1},
-			{"fach":"Deutsch", "inhalt":"Schreiben eines Arbeitsberichtes", "hours":2},
-			{"fach":"Sport", "inhalt":"Krafttraining, Volleyball Technik", "hours":2}
+			{"fach":"Englisch", "inhalt":"Zeitformen", "stunden":2},
+			{"fach":"Hardware", "inhalt":"Bus-Systeme", "stunden":1},
+			{"fach":"Deutsch", "inhalt":"Schreiben eines Arbeitsberichtes", "stunden":2},
+			{"fach":"Sport", "inhalt":"Krafttraining, Volleyball Technik", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-05-04",
 		"inhalt":[
-			{"fach":"Installation", "inhalt":"Elektrische Leitungen, Kennzeichnung und Verlegearten", "hours":2},
-			{"fach":"Arbeitsmethodik", "inhalt":"IQ-Test, Künstliche Inteligenz", "hours":2}
+			{"fach":"Installation", "inhalt":"Elektrische Leitungen, Kennzeichnung und Verlegearten", "stunden":2},
+			{"fach":"Arbeitsmethodik", "inhalt":"IQ-Test, Künstliche Inteligenz", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-05-07",
 		"inhalt":[
-			{"fach":"Webentwicklung", "inhalt":"Responsive Design, Entwicklung einer Website", "hours":3},
-			{"fach":"Betriebssysteme", "inhalt":"Klassenarbeit: Zweck und Architekturen von Betriebssystemen, Sheduling", "hours":2},
-			{"fach":"Betriebswirtschaft", "inhalt":"Sozialer Arbeitsschutz", "hours":2}
+			{"fach":"Webentwicklung", "inhalt":"Responsive Design, Entwicklung einer Website", "stunden":3},
+			{"fach":"Betriebssysteme", "inhalt":"Klassenarbeit: Zweck und Architekturen von Betriebssystemen, Sheduling", "stunden":2},
+			{"fach":"Betriebswirtschaft", "inhalt":"Sozialer Arbeitsschutz", "stunden":2}
 		]
 	},
 	{
 		"tag":"2018-05-08",
 		"inhalt":[
-			{"fach":"Hardware", "inhalt":"BUS-Systeme", "hours":1},
-			{"fach":"Gemeinschaftskunde", "inhalt":"Lebenskreislauf, Konfliktbewältigung", "hours":1},
-			{"fach":"Grundlagen der Informatik", "inhalt":"Analyse und Synthese von logischen Schaltungen", "hours":1},
-			{"fach":"Projektierung", "inhalt":"Projektumfeld", "hours":2},
-			{"fach":"Java", "inhalt":"Aufgaben, Methoden von Klassen", "hours":3}
+			{"fach":"Hardware", "inhalt":"BUS-Systeme", "stunden":1},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Lebenskreislauf, Konfliktbewältigung", "stunden":1},
+			{"fach":"Grundlagen der Informatik", "inhalt":"Analyse und Synthese von logischen Schaltungen", "stunden":1},
+			{"fach":"Projektierung", "inhalt":"Projektumfeld", "stunden":2},
+			{"fach":"Java", "inhalt":"Aufgaben, Methoden von Klassen", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-05-09",
 		"inhalt":[
-			{"fach":"Grundlagen der Informatik", "inhalt":"Analyse und Synthese von logischen Schaltungen", "hours":2},
-			{"fach":"Gemeinschaftskunde", "inhalt":"Ursprünge des Rechts", "hours":1},
-			{"fach":"Betriebswirtschaft", "inhalt":"Leistungskontrolle Marktformen und Preisbildung, Verträge", "hours":3}
+			{"fach":"Grundlagen der Informatik", "inhalt":"Analyse und Synthese von logischen Schaltungen", "stunden":2},
+			{"fach":"Gemeinschaftskunde", "inhalt":"Ursprünge des Rechts", "stunden":1},
+			{"fach":"Betriebswirtschaft", "inhalt":"Leistungskontrolle Marktformen und Preisbildung, Verträge", "stunden":3}
 		]
 	},
 	{
 		"tag":"2018-05-10",
 		"inhalt":[
-			{"fach":"", "inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
+			{"fach":"", "inhalt":"Feiertag", "stunden":8, "data":"FEIERTAG"}
 		]
 	},
 	{
 		"tag":"2018-05-11",
 		"inhalt":[
-			{"fach":"", "inhalt":"Brückentag", "hours":8, "data":"FEIERTAG"}
+			{"fach":"", "inhalt":"Brückentag", "stunden":8, "data":"FEIERTAG"}
 		]
 	}
 ]
