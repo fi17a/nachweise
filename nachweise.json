@@ -60,7 +60,9 @@
 	},
 	{
 		"tag":"2017-09-27",
-		"inhalt":{"inhalt":"Sportfest","stunden":5}
+		"inhalt":[
+			{"fach":null,"inhalt":"Sportfest","stunden":5}
+		]
 	},
 	{
 		"tag":"2017-09-28",
@@ -306,12 +308,14 @@
 	{
 		"tag":"2018-03-29",
 		"inhalt":[
-			{"fach":"", "inhalt":"", "stunden":8, "data":"BETRIEB"}
+			{"fach":null, "inhalt":"Ausfall", "stunden":null}
 		]
 	},
 	{
 		"tag":"2018-03-30",
-		"inhalt":{"inhalt":"Feiertag","stunden":8}
+		"inhalt":[
+			{"fach":null,"inhalt":"Feiertag","stunden":null}
+		]
 	},
 	{
 		"tag":"2018-04-30",
@@ -323,7 +327,9 @@
 	},
 	{
 		"tag":"2018-05-01",
-		"inhalt":{"inhalt":"Feiertag","stunden":8}
+		"inhalt":[
+			{"fach":null,"inhalt":"Feiertag","stunden":null}
+		]
 	},
 	{
 		"tag":"2018-05-02",
@@ -377,11 +383,15 @@
 	},
 	{
 		"tag":"2018-05-10",
-		"inhalt":{"inhalt":"Feiertag","stunden":8}
+		"inhalt":[
+			{"fach":null,"inhalt":"Feiertag","stunden":null}
+		]
 	},
 	{
 		"tag":"2018-05-11",
-		"inhalt":{"inhalt":"Brückentag","stunden":8}
+		"inhalt":[
+			{"fach":null,"inhalt":"Feiertag","stunden":null}
+		]
 	},
 	{
 		"tag":"2018-09-03",
@@ -574,7 +584,7 @@
 	{
 		"tag":"2018-11-21",
 		"inhalt":[
-			{"fach":"","inhalt":"Feiertag","stunden":2}
+			{"fach":null,"inhalt":"Feiertag","stunden":null}
 		]
 	},
 	{
@@ -629,7 +639,7 @@
 	{
 		"tag":"2019-01-11",
 		"inhalt":[
-			{"fach":"Datenbanktheorie","inhalt":"ERM-Übung","stunden":1}
+			{"fach":null,"inhalt":"Ausfall","stunden":null}
 		]
 	},
 	{
