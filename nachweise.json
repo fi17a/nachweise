@@ -390,7 +390,154 @@
 	{
 		"tag":"2018-05-11",
 		"inhalt":[
-			{"fach":null,"inhalt":"Feiertag","stunden":null}
+			{"fach":null,"inhalt":"Betrieb","stunden":null}
+		]
+	},
+	{
+		"tag":"2018-05-14",
+		"inhalt":[
+			{"fach":"Webseitengestaltung","inhalt":"Aufgabe erstellen einer Website","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Prozesssteuerung, Prozesszustände","stunden":2},
+			{"fach":"Betriebswirtschaft","inhalt":"Sozialer Arbeitsschutz, Pflichten für Kaufleute","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-05-15",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"BUS-Systeme, USB","stunden":1},
+			{"fach":"Gemeinschaftskunde","inhalt":"Rechte und Pflichten Jungendlicher","stunden":1},
+			{"fach":"Projektierung","inhalt":"Projektleiter","stunden":2},
+			{"fach":"Java","inhalt":"Aufgaben","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-05-16",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Elektrische Energie, Arbeitsleistung","stunden":2},
+			{"fach":"Gemeinschaftskunde","inhalt":"LK Gruppen und Lebensformen, Rechte und Pflichten","stunden":1},
+			{"fach":"Betriebswirtschaft","inhalt":"Unternehmensformen","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-05-17",
+		"inhalt":[
+			{"fach":"Englisch","inhalt":"Klassenarbeit","stunden":2},
+			{"fach":"Hardware","inhalt":"FireWire","stunden":1},
+			{"fach":"Deutsch","inhalt":"Beschreibung","stunden":2},
+			{"fach":"Sport","inhalt":"Volleyball Technik","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-05-18",
+		"inhalt":[
+			{"fach":"Installationstechnik","inhalt":"LK Leitungen, Leitungsbelastbarkeit","stunden":2},
+			{"fach":"Arbeitsmethodik","inhalt":"Team und Kreativität","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-11",
+		"inhalt":[
+			{"fach":"Webseitengestaltung","inhalt":"Erstellen einer Website","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Ein- und Ausgabesteuerung","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-12",
+		"inhalt":[
+			{"fach":"Installationstechnik","inhalt":"Ermittlung Leiterquerschnitt, Spannungsabfall, anschließend Aufgaben","stunden":2},
+			{"fach":"Grundlagen der Informatik","inhalt":"Elektrische Energie, Arbeit, Leistung","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-06-13",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Elektrische Energie, Arbeit, Leistung","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-06-14",
+		"inhalt":[
+			{"fach":"Englisch","inhalt":"Kurzvortrag","stunden":2},
+			{"fach":"Installationstechnik","inhalt":"Übungsaufgabe","stunden":1},
+			{"fach":"Deutsch","inhalt":"Gegenstandsbeschreibung","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-15",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Recherche über Schnittstellenspezifikationen bei IDE/PATA, SATA und SCSI","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-06-18",
+		"inhalt":[
+			{"fach":"Webseitengestaltung","inhalt":"Fertigstellung und Abgabe der Website","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Ein- und Ausgabesteuerung","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-19",
+		"inhalt":[
+			{"fach":"Installationstechnik","inhalt":"Übungsaufgaben zu Leitungen","stunden":1},
+			{"fach":"Grundlagen der Informatik","inhalt":"Wirkungsgrad, Klassenarbeit","stunden":2},
+			{"fach":"Projektierung","inhalt":"Phasenmodelle","stunden":2},
+			{"fach":"Java","inhalt":"Aufgaben","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-06-20",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Parallelschaltung, Berechnung des Gesamtwiderstandes","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-06-21",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Klassenarbeit Elektrische Energie, Arbeit, Leistung","stunden":1},
+			{"fach":"Sport","inhalt":"Volleyball","stunden":2},
+			{"fach":"Deutsch","inhalt":"Arbeitsplatzbeschreibung","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-22",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"IDE, SATA, und SCSI, RS232","stunden":2},
+			{"fach":"Installationstechnik","inhalt":"Aufgaben","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-25",
+		"inhalt":[
+			{"fach":"Webseitengestaltung","inhalt":" Vortragsvorbereitung","stunden":3},
+			{"fach":"Betriebssysteme","inhalt":"Softwaresynchronisation","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-26",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"Übersicht der Ein- und Ausgabegeräte, Bildschirmausgabegeräte, Logiktraining","stunden":2},
+			{"fach":"Grundlagen der Informatik","inhalt":"Parallelschaltung von Komponenten","stunden":1},
+			{"fach":"Projektierung","inhalt":"Gestaltung einer Präsentation","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-27",
+		"inhalt":[
+			{"fach":"Grundlagen der Informatik","inhalt":"Wiederholung Strom, Leistung, Widerstand und Spannung in der Parallelschaltung, anschließend Laborversuch","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-06-28",
+		"inhalt":[
+			{"fach":"Projektierung","inhalt":"Stoffsammlung für eine Presentation","stunden":2},
+			{"fach":"Installationstechnik","inhalt":"5 Sicherheitsregeln für Arbeiten an elektrischen Geräten und erste Hilfsmaßnahmen bei Unfällen mit Strom","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-06-29",
+		"inhalt":[
+			{"fach":"Hardware","inhalt":"IDE, SATA, und SCSI, RS232","stunden":2},
+			{"fach":"Installationstechnik","inhalt":"Aufgaben","stunden":2}
 		]
 	},
 	{
