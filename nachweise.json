@@ -311,9 +311,7 @@
 	},
 	{
 		"tag":"2018-03-30",
-		"inhalt":[
-			{"fach":"","inhalt":"Feiertag", "stunden":8, "data":"FEIERTAG"}
-		]
+		"inhalt":{"inhalt":"Feiertag","stunden":8}
 	},
 	{
 		"tag":"2018-04-30",
@@ -325,9 +323,7 @@
 	},
 	{
 		"tag":"2018-05-01",
-		"inhalt":[
-			{"fach":"", "inhalt":"Feiertag", "stunden":8, "data":"FEIERTAG"}
-		]
+		"inhalt":{"inhalt":"Feiertag","stunden":8}
 	},
 	{
 		"tag":"2018-05-02",
@@ -381,14 +377,10 @@
 	},
 	{
 		"tag":"2018-05-10",
-		"inhalt":[
-			{"fach":"", "inhalt":"Feiertag", "stunden":8, "data":"FEIERTAG"}
-		]
+		"inhalt":{"inhalt":"Feiertag","stunden":8}
 	},
 	{
 		"tag":"2018-05-11",
-		"inhalt":[
-			{"fach":"", "inhalt":"Brückentag", "stunden":8, "data":"FEIERTAG"}
-		]
+		"inhalt":{"inhalt":"Brückentag","stunden":8}
 	}
 ]
