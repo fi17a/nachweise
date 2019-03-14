@@ -2,8 +2,8 @@
 	{
 		"tag":"2017-09-18",
 		"inhalt":[
-			{"fach":"","inhalt":"Aufname in das Beruflische Schulzentrum e. o. Plauen","stunden":1},
-			{"fach":"","inhalt":"Erledigung der Formalitäten und Rundgang des Schulzentrums","stunden":4}
+			{"fach":null,"inhalt":"Aufname in das Beruflische Schulzentrum e. o. Plauen","stunden":1},
+			{"fach":null,"inhalt":"Erledigung der Formalitäten und Rundgang des Schulzentrums","stunden":4}
 		]
 	},
 	{
@@ -507,6 +507,259 @@
 			{"fach":"Englisch", "inhalt": "Hörbuch anhören und Diskutieren", "stunden": 2},
 			{"fach":"Wirtschaftskunde", "inhalt": "Kaufvertrag und Sonderformen", "stunden": 2},
 			{"fach":"Datenbanken", "inhalt": "LK Datenbanken", "stunden": 1}
+		]
+	},
+	{
+		"tag":"2018-11-12",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Lieferverzug","stunden":1},
+			{"fach":"C#","inhalt":"Windows Forms","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Unternehmenszusammenschlüsse","stunden":2},
+			{"fach":"Deutsch","inhalt":"Vorbereitung Vorträge","stunden":1},
+			{"fach":"Webseitengestaltung","inhalt":"JavaScript: Arrays","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-11-13",
+		"inhalt":[
+			{"fach":"Deutsch","inhalt":"Vorbereitung Vorträge","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2},
+			{"fach":"Netze","inhalt":"Topologien","stunden":1}
+		]
+	},
+	{
+		"tag":"2018-11-14",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"Relationale Datenbankmodelle","stunden":2},
+			{"fach":"JAVA","inhalt":"JFrames mit Swing","stunden":2},
+			{"fach":"Projektierung","inhalt":"Fertigstellung eines Pflichtenheft","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-11-15",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"Verbindungskategorien, Übertragungsverfahren","stunden":1},
+			{"fach":"Netze","inhalt":"Schichtenmodelle","stunden":1},
+			{"fach":"Englisch","inhalt":"Media","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-11-16",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Lieferverzug, Sachmangel","stunden":1},
+			{"fach":"Datenbanktheorie","inhalt":"Datenmodellierung","stunden":1},
+			{"fach":"öffentliche Netze","inhalt":"Multiplexverfahren","stunden":1},
+			{"fach":"Englisch","inhalt":"Listening","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-11-19",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Lieferverzug","stunden":1},
+			{"fach":"C#","inhalt":"RadioButtons, if/else","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Analyse von Geschäftsprozessen","stunden":2},
+			{"fach":"Deutsch","inhalt":"Vorbereitung Vorträge","stunden":1},
+			{"fach":"Webseitengestaltung","inhalt":"JavaScript: Create Element","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-11-20",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Meinungsfreiheit","stunden":1},
+			{"fach":"Deutsch","inhalt":"Vorträge zur Betriebsvorstellung","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2},
+			{"fach":"Netze","inhalt":"Bitübertragungsschicht","stunden":1}
+		]
+	},
+	{
+		"tag":"2018-11-21",
+		"inhalt":[
+			{"fach":"","inhalt":"Feiertag","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-11-22",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"Leistungskontrolle","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Geschäftsprozesse gestalten","stunden":1},
+			{"fach":"Netze","inhalt":"Multiplexen","stunden":1},
+			{"fach":"Englisch","inhalt":"Reading: Making electricity with caged atoms","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-11-23",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Zahlungsverzug, Annahmeverzug","stunden":2},
+			{"fach":"Datenbanktheorie","inhalt":"Detailliertes ERM","stunden":1},
+			{"fach":"Englisch","inhalt":"Discussions","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-07",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Verjährung, Klageverfahren","stunden":3},
+			{"fach":"Webseitengestaltung","inhalt":"Canvas","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-08",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Europäische Armee","stunden":1},
+			{"fach":"Projektierung","inhalt":"Programmablaufplan","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-09",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: U-Bahn","stunden":2},
+			{"fach":"JAVA","inhalt":"GUI-Beispiel","stunden":2},
+			{"fach":"Projektierung","inhalt":"Programmablaufplan: Beispiel, Struktugramm","stunden":2},
+			{"fach":"Gemeinschaftskunde","inhalt":"Medien 'Die vierte Gewalt?'","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-10",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"Wellenlängen Multiplexverfahren","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Istaufnahmetechnik","stunden":1},
+			{"fach":"Englisch","inhalt":"Telephoning","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-11",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"ERM-Übung","stunden":1}
+		]
+	},
+	{
+		"tag":"2018-01-14",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Haftung","stunden":1},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Stellenbildung: Aufgaben","stunden":2},
+			{"fach":"Deutsch","inhalt":"Kommunikationsmodelle","stunden":1},
+			{"fach":"Webseitengestaltung","inhalt":"Klassen","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-15",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag: terrorismus","stunden":1},
+			{"fach":"Deutsch","inhalt":"Kommunikationsmodelle","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-16",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"ERM.Beispiel: Wein","stunden":2},
+			{"fach":"JAVA","inhalt":"Window Builder","stunden":2},
+			{"fach":"Projektierung","inhalt":"Leistungkontrolle, Sruktugramm: Übung","stunden":3},
+			{"fach":"Gemeinschaftskunde","inhalt":"Vorträge: Bundeswehr, NATO","stunden":1}
+		]
+	},
+	{
+		"tag":"2018-01-17",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"Leistungskontrolle","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Stellenbildung","stunden":1},
+			{"fach":"Englisch","inhalt":"Telephoning: Role play","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-01-18",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Haftung","stunden":2},
+			{"fach":"Datenbanktheorie","inhalt":"ERM: Aufgaben","stunden":1},
+			{"fach":"Englisch","inhalt":"Telephoning: Leistungskontrolle","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-03-04",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherschutz","stunden":1},
+			{"fach":"C#","inhalt":"Programmbeispiel: Guadratische Gleichungen","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Stellenbildung, Abteilungssysteme","stunden":2},
+			{"fach":"Deutsch","inhalt":"","stunden":1},
+			{"fach":"Webseitengestaltung","inhalt":"Canvas","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-03-05",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag","stunden":1},
+			{"fach":"Deutsch","inhalt":"","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2},
+			{"fach":"Netze","inhalt":"OSI - Link data layer","stunden":1}
+		]
+	},
+	{
+		"tag":"2018-03-06",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Telefon, Leistungskontrolle","stunden":2},
+			{"fach":"JAVA","inhalt":"GUI: Vokale","stunden":2},
+			{"fach":"Projektierung","inhalt":"Struktugramm","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-03-07",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"Einteilung der öffentliche Netze","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"Leistungskontrolle","stunden":1},
+			{"fach":"Netze","inhalt":"OSI - Link data layer","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-03-08",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherschutz, Warenkennzeichung","stunden":2},
+			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Carsharing","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-03-11",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherinsolvenz","stunden":1},
+			{"fach":"C#","inhalt":"Programmbeispiel: Guadratische Gleichungen","stunden":2},
+			{"fach":"Betriebswirtschaftskunde","inhalt":"","stunden":2},
+			{"fach":"Deutsch","inhalt":"","stunden":1},
+			{"fach":"Webseitengestaltung","inhalt":"Canvas","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-03-12",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag","stunden":1},
+			{"fach":"Deutsch","inhalt":"","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2},
+			{"fach":"Netze","inhalt":"OSI - Network layer","stunden":1}
+		]
+	},
+	{
+		"tag":"2018-03-13",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Handlung","stunden":2},
+			{"fach":"JAVA","inhalt":"GUI: BMI","stunden":2},
+			{"fach":"Projektierung","inhalt":"Baumdiagramm, Petrienetze, Entscheidungstabelle","stunden":3}
+		]
+	},
+	{
+		"tag":"2018-03-14",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"Einteilung der öffentliche Netze","stunden":2},
+			{"fach":"Wirtschaftskunde","inhalt":"Marketing","stunden":1},
+			{"fach":"Netze","inhalt":"OSI - Link data layer","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2018-03-15",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"Aufgabenbereiche Marketing","stunden":2},
+			{"fach":"Datenbanktheorie","inhalt":"Vorberitung für die Zwischenprüfung","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
 		]
 	}
 ]
