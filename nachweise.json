@@ -199,10 +199,6 @@
 			{"fach":"Arbeitsmethodik","inhalt":"Team, Teamfähigkeit, Klassenarbeit"}
 		]
 	},
-	"Weiter mit: Seite 6 / 22.01.2018"
-	"----------------------------------------------------------------------------"
-	"22.01.18 - 26.01.18"
-	"week : 3"
 	{
 		"tag":"2018-01-22",
 		"inhalt":[
@@ -231,7 +227,7 @@
 		"tag":"2018-01-25",
 		"inhalt":[
 			{"fach":"Englisch", "inhalt":"Argumentative Diskursführung", "hours":2},
-			{"fach":"Hardware", "inhalt":"ROM-Speicher, Flash-Speicher", "hours":1}
+			{"fach":"Hardware", "inhalt":"ROM-Speicher, Flash-Speicher", "hours":1},
 			{"fach":"Deutsch", "inhalt":"Wortarten", "hours":2}
 		]
 	},
@@ -242,9 +238,6 @@
 			{"fach":"Arbeitsmethodik","inhalt":"Teamentwicklung", "hours":2}
 		]
 	},
-	"----------------------------------------------------------------------------"
-	"19.03.18 - 23.03.18"
-	"week : 4"
 	{
 		"tag":"2018-03-19",
 		"inhalt":[
@@ -286,9 +279,6 @@
 			{"fach":"Arbeitsmethodik", "inhalt":"Teamentwicklung", "hours":2}
 		]
 	},
-	"----------------------------------------------------------------------------"
-	"26.03.18 - 30.03.18"
-	"week : 4"
 	{
 		"tag":"2018-03-26",
 		"inhalt":[
@@ -327,9 +317,6 @@
 			{"fach":"","inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
 		]
 	},
-	"----------------------------------------------------------------------------"
-	"30.04.18 - 04.05.18"
-	"week : 5"
 	{
 		"tag":"2018-04-30",
 		"inhalt":[
@@ -341,7 +328,7 @@
 	{
 		"tag":"2018-05-01",
 		"inhalt":[
-			{"fach":"", "inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"},
+			{"fach":"", "inhalt":"Feiertag", "hours":8, "data":"FEIERTAG"}
 		]
 	},
 	{
@@ -368,9 +355,6 @@
 			{"fach":"Arbeitsmethodik", "inhalt":"IQ-Test, Künstliche Inteligenz", "hours":2}
 		]
 	},
-	"----------------------------------------------------------------------------"
-	"07.05.18 - 11.05.18"
-	"week : 5"
 	{
 		"tag":"2018-05-07",
 		"inhalt":[
@@ -408,5 +392,5 @@
 		"inhalt":[
 			{"fach":"", "inhalt":"Brückentag", "hours":8, "data":"FEIERTAG"}
 		]
-	},
+	}
 ]
