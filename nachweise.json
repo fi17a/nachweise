@@ -595,14 +595,14 @@
 		]
 	},
 	{
-		"tag":"2018-01-07",
+		"tag":"2019-01-07",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Verjährung, Klageverfahren","stunden":3},
 			{"fach":"Webseitengestaltung","inhalt":"Canvas","stunden":2}
 		]
 	},
 	{
-		"tag":"2018-01-08",
+		"tag":"2019-01-08",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde","inhalt":"Europäische Armee","stunden":1},
 			{"fach":"Projektierung","inhalt":"Programmablaufplan","stunden":2},
@@ -610,7 +610,7 @@
 		]
 	},
 	{
-		"tag":"2018-01-09",
+		"tag":"2019-01-09",
 		"inhalt":[
 			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: U-Bahn","stunden":2},
 			{"fach":"JAVA","inhalt":"GUI-Beispiel","stunden":2},
@@ -619,7 +619,7 @@
 		]
 	},
 	{
-		"tag":"2018-01-10",
+		"tag":"2019-01-10",
 		"inhalt":[
 			{"fach":"öffentliche Netze","inhalt":"Wellenlängen Multiplexverfahren","stunden":2},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Istaufnahmetechnik","stunden":1},
@@ -627,13 +627,13 @@
 		]
 	},
 	{
-		"tag":"2018-01-11",
+		"tag":"2019-01-11",
 		"inhalt":[
 			{"fach":"Datenbanktheorie","inhalt":"ERM-Übung","stunden":1}
 		]
 	},
 	{
-		"tag":"2018-01-14",
+		"tag":"2019-01-14",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Haftung","stunden":1},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Stellenbildung: Aufgaben","stunden":2},
@@ -642,7 +642,7 @@
 		]
 	},
 	{
-		"tag":"2018-01-15",
+		"tag":"2019-01-15",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag: terrorismus","stunden":1},
 			{"fach":"Deutsch","inhalt":"Kommunikationsmodelle","stunden":2},
@@ -650,7 +650,7 @@
 		]
 	},
 	{
-		"tag":"2018-01-16",
+		"tag":"2019-01-16",
 		"inhalt":[
 			{"fach":"Datenbanktheorie","inhalt":"ERM.Beispiel: Wein","stunden":2},
 			{"fach":"JAVA","inhalt":"Window Builder","stunden":2},
@@ -659,7 +659,7 @@
 		]
 	},
 	{
-		"tag":"2018-01-17",
+		"tag":"2019-01-17",
 		"inhalt":[
 			{"fach":"öffentliche Netze","inhalt":"Leistungskontrolle","stunden":2},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Stellenbildung","stunden":1},
@@ -667,7 +667,7 @@
 		]
 	},
 	{
-		"tag":"2018-01-18",
+		"tag":"2019-01-18",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Haftung","stunden":2},
 			{"fach":"Datenbanktheorie","inhalt":"ERM: Aufgaben","stunden":1},
@@ -675,7 +675,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-04",
+		"tag":"2019-03-04",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherschutz","stunden":1},
 			{"fach":"C#","inhalt":"Programmbeispiel: Guadratische Gleichungen","stunden":2},
@@ -685,7 +685,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-05",
+		"tag":"2019-03-05",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag","stunden":1},
 			{"fach":"Deutsch","inhalt":"","stunden":2},
@@ -694,7 +694,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-06",
+		"tag":"2019-03-06",
 		"inhalt":[
 			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Telefon, Leistungskontrolle","stunden":2},
 			{"fach":"JAVA","inhalt":"GUI: Vokale","stunden":2},
@@ -702,7 +702,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-07",
+		"tag":"2019-03-07",
 		"inhalt":[
 			{"fach":"öffentliche Netze","inhalt":"Einteilung der öffentliche Netze","stunden":2},
 			{"fach":"Betriebswirtschaftskunde","inhalt":"Leistungskontrolle","stunden":1},
@@ -711,7 +711,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-08",
+		"tag":"2019-03-08",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherschutz, Warenkennzeichung","stunden":2},
 			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Carsharing","stunden":1},
@@ -719,7 +719,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-11",
+		"tag":"2019-03-11",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Verbraucherinsolvenz","stunden":1},
 			{"fach":"C#","inhalt":"Programmbeispiel: Guadratische Gleichungen","stunden":2},
@@ -729,7 +729,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-12",
+		"tag":"2019-03-12",
 		"inhalt":[
 			{"fach":"Gemeinschaftskunde","inhalt":"Vortrag","stunden":1},
 			{"fach":"Deutsch","inhalt":"","stunden":2},
@@ -738,7 +738,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-13",
+		"tag":"2019-03-13",
 		"inhalt":[
 			{"fach":"Datenbanktheorie","inhalt":"ERM-Beispiel: Handlung","stunden":2},
 			{"fach":"JAVA","inhalt":"GUI: BMI","stunden":2},
@@ -746,7 +746,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-14",
+		"tag":"2019-03-14",
 		"inhalt":[
 			{"fach":"öffentliche Netze","inhalt":"Einteilung der öffentliche Netze","stunden":2},
 			{"fach":"Wirtschaftskunde","inhalt":"Marketing","stunden":1},
@@ -755,7 +755,7 @@
 		]
 	},
 	{
-		"tag":"2018-03-15",
+		"tag":"2019-03-15",
 		"inhalt":[
 			{"fach":"Wirtschaftskunde","inhalt":"Aufgabenbereiche Marketing","stunden":2},
 			{"fach":"Datenbanktheorie","inhalt":"Vorberitung für die Zwischenprüfung","stunden":1},
