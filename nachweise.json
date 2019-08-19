@@ -916,5 +916,90 @@
 			{"fach":"Datenbanktheorie","inhalt":"Vorberitung für die Zwischenprüfung","stunden":1},
 			{"fach":"Englisch","inhalt":"","stunden":2}
 		]
+	},
+	{
+		"tag":"2019-04-29",
+		"inhalt":[
+			{"fach":"Betriebswirtschaft","inhalt":"","stunden":3},
+			{"fach":"C#","inhalt":"","stunden":2},
+			{"fach":"Deutsch","inhalt":"","stunden":1}
+			{"fach":"Webentwicklung", "inhalt": "", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2019-04-30",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"","stunden":1},
+			{"fach":"Deutsch","inhalt":"Protokollführung","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2},
+			{"fach":"Netze","inhalt":"OSI - ","stunden":1}
+		]
+	},
+	{
+		"tag":"2019-05-01",
+		"inhalt":[
+			{"fach":"Feiertag","inhalt":"","stunden":0},
+		]
+	},
+	{
+		"tag":"2019-05-02",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"","stunden":2},
+			{"fach":"Wirtschaftskunde","inhalt":"","stunden":1},
+			{"fach":"Netze","inhalt":"OSI - ","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2019-05-03",
+		"inhalt":[
+			{"fach":"Wirtschaftskunde","inhalt":"","stunden":2},
+			{"fach":"Datenbanktheorie","inhalt":"","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2019-05-06",
+		"inhalt":[
+			{"fach":"Betriebswirtschaft","inhalt":"","stunden":3},
+			{"fach":"C#","inhalt":"","stunden":2},
+			{"fach":"Deutsch","inhalt":"","stunden":1},
+			{"fach":"Webentwicklung", "inhalt": "", "stunden": 2}
+		]
+	},
+	{
+		"tag":"2019-05-07",
+		"inhalt":[
+			{"fach":"Gemeinschaftskunde","inhalt":"Klassenarbeit Medien, EU, NATO, Terrorismus","stunden":1},
+			{"fach":"Deutsch","inhalt":"","stunden":2},
+			{"fach":"Sport","inhalt":"","stunden":2},
+			{"fach":"Netze","inhalt":"OSI - ","stunden":1}
+		]
+	},
+	{
+		"tag":"2019-05-08",
+		"inhalt":[
+			{"fach":"Datenbanktheorie","inhalt":"","stunden":2},
+			{"fach":"Gemeinschaftskunde","inhalt":"United Nations Organization","stunden":1},
+			{"fach":"Projektierung","inhalt":"Entscheidungstabelle, Netzplan","stunden":3}
+		]
+	},
+	{
+		"tag":"2019-05-09",
+		"inhalt":[
+			{"fach":"öffentliche Netze","inhalt":"","stunden":2},
+			{"fach":"Wirtschaftskunde","inhalt":"Marketing","stunden":1},
+			{"fach":"Netze","inhalt":"OSI - ","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
+	},
+	{
+		"tag":"2019-05-10",
+		"inhalt":[
+			{"fach":"öffentliche Netze", "inhalt":"Leistungskontrolle Telefonnetz","stunden":1}
+			{"fach":"Wirtschaftskunde","inhalt":"","stunden":2},
+			{"fach":"Datenbanktheorie","inhalt":"","stunden":1},
+			{"fach":"Englisch","inhalt":"","stunden":2}
+		]
 	}
 ]
