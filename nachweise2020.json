@@ -1,0 +1,56 @@
+[
+    {
+        "tag":"2020-02-24",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2020-03-02",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2020-03-09",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2020-04-22",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2020-04-27",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2020-06-01",
+        "inhalt":[
+            {"fach": "Feiertag", "inhalt":null, "stunden":0}
+        ]
+    },
+    {
+        "tag":"2020-06-08",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    }
+]

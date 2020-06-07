@@ -1,0 +1,37 @@
+{
+	"faecher":[
+		"Arbeitsmethodik",
+		"Betriebssysteme",
+		"Betriebswirtschaft",
+		"C#",
+		"Datenbankpraxis",
+		"Datenbanktheorie",
+		"Deutsch",
+		"Einführung in Neues Schuljahr",
+		"Englisch",
+		"Feiertag",
+		"Gemeinschaftskunde",
+		"Grundlagen der Informatik",
+		"Hardware",
+		"Installationstechnik",
+		"Java",
+		"Netze",
+		"Projektierung",
+		"Sport",
+		"Webentwicklung",
+		"Wirtschaftskunde",
+		"Őffentliche Netze"
+	],
+	"tage":[
+		{
+			"tag":"2017-09-19",
+			"inhalt":[
+				{"fach":"Hardware","inhalt":"Einführung und Mainboard","stunden":1},
+				{"fach":"Gemeinschaftskunde","inhalt":"Kommunikation","stunden":1},
+				{"fach":"Grundlagen der Informatik","inhalt":"Zahlensysteme","stunden":1},
+				{"fach":"Projektierung","inhalt":"Softwareentwicklungsprozess","stunden":2},
+				{"fach":"Programmierung mit Java","inhalt":"Einführung und Syntax","stunden":3}
+			]
+		}
+	]
+}
