@@ -922,7 +922,7 @@
 		"inhalt":[
 			{"fach":"Betriebswirtschaft","inhalt":"","stunden":3},
 			{"fach":"C#","inhalt":"","stunden":2},
-			{"fach":"Deutsch","inhalt":"","stunden":1}
+			{"fach":"Deutsch","inhalt":"","stunden":1},
 			{"fach":"Webentwicklung", "inhalt": "", "stunden": 2}
 		]
 	},
@@ -938,7 +938,7 @@
 	{
 		"tag":"2019-05-01",
 		"inhalt":[
-			{"fach":"Feiertag","inhalt":"","stunden":0},
+			{"fach":"Feiertag","inhalt":"","stunden":0}
 		]
 	},
 	{
@@ -996,7 +996,7 @@
 	{
 		"tag":"2019-05-10",
 		"inhalt":[
-			{"fach":"öffentliche Netze", "inhalt":"Leistungskontrolle Telefonnetz","stunden":1}
+			{"fach":"öffentliche Netze", "inhalt":"Leistungskontrolle Telefonnetz","stunden":1},
 			{"fach":"Wirtschaftskunde","inhalt":"","stunden":2},
 			{"fach":"Datenbanktheorie","inhalt":"","stunden":1},
 			{"fach":"Englisch","inhalt":"","stunden":2}
