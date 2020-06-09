@@ -1,6 +1,6 @@
 [
     {
-        "tag":"2020-02-24",
+        "tag":"2019-02-24",
         "inhalt":[
             {"fach": "", "inhalt":"", "stunden":0},
             {"fach": "", "inhalt":"", "stunden":0},
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "tag":"2020-03-02",
+        "tag":"2019-03-02",
         "inhalt":[
             {"fach": "", "inhalt":"", "stunden":0},
             {"fach": "", "inhalt":"", "stunden":0},
@@ -47,6 +47,89 @@
     },
     {
         "tag":"2020-06-08",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+[
+    {
+        "tag":"2019-04-29",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-05-06",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-06-10",
+        "inhalt":[
+            {"fach": "Feiertag", "inhalt":"", "stunden":0}
+    },
+    {
+        "tag":"2019-06-17",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-08-19",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+	"tag":"2019-08-26",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-09-02",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-10-28",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-11-04",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-12-09",
+        "inhalt":[
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0},
+            {"fach": "", "inhalt":"", "stunden":0}
+        ]
+    },
+    {
+        "tag":"2019-12-16",
         "inhalt":[
             {"fach": "", "inhalt":"", "stunden":0},
             {"fach": "", "inhalt":"", "stunden":0},
