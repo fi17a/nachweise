@@ -279,7 +279,7 @@
 		"inhalt": [
 			{
 				"fach": "Gemeinschaftskunde",
-				"inhalt": "TODO",
+				"inhalt": "Soziale Berechtigkeit",
 				"stunden": 1
 			},
 			{
@@ -348,11 +348,6 @@
 		"tag": "2019-06-17",
 		"inhalt": [
 			{
-				"fach": "Deutsch",
-				"inhalt": "TODO",
-				"stunden": 1
-			},
-			{
 				"fach": "Wirtschaftskunde",
 				"inhalt": "Bewerbung",
 				"stunden": 1
@@ -369,7 +364,7 @@
 			},
 			{
 				"fach": "Webentwicklung",
-				"inhalt": "TODO",
+				"inhalt": "CANVAS",
 				"stunden": 2
 			}
 		]
@@ -379,7 +374,7 @@
 		"inhalt": [
 			{
 				"fach": "Deutsch",
-				"inhalt": "TODO",
+				"inhalt": "Bearbeitung Sachtext",
 				"stunden": 2
 			},
 			{
@@ -434,7 +429,7 @@
 			},
 			{
 				"fach": "Netze",
-				"inhalt": "TODO",
+				"inhalt": "Prüfungsvorbereitung",
 				"stunden": 1
 			}
 		]
@@ -624,7 +619,7 @@
 		"inhalt": [
 			{
 				"fach": "Deutsch",
-				"inhalt": "TODO",
+				"inhalt": "Inhaltsverzeichnis",
 				"stunden": "1"
 			},
 			{
@@ -669,7 +664,7 @@
 		"inhalt": [
 			{
 				"fach": "Deutsch",
-				"inhalt": "TODO",
+				"inhalt": "LK Inhaltsverzeichnis",
 				"stunden": "2"
 			},
 			{
@@ -704,7 +699,7 @@
 			},
 			{
 				"fach": "Betriebswirtschaft",
-				"inhalt": "TODO",
+				"inhalt": "Klassebarbeit",
 				"stunden": "3"
 			},
 			{
@@ -784,10 +779,242 @@
 	},
 	{
 		"tag": "2019-12-09",
-		"inhalt": []
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Präsentation",
+				"stunden": "1"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Aufgaben",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Firewall",
+				"stunden": "2"
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Zeichnen mit JAVA - Kreisdiagramm",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-10",
+		"inhalt": [
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Übungen - LIKE, NOT",
+				"stunden": "3"
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Vorbereitung Facharbeit",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Einkommenssteuer",
+				"stunden": "1"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Beschaffung",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-11",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Vortrag",
+				"stunden": "1"
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Technik",
+				"stunden": "2"
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Algo. Kredit 2",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Verschlüsselung",
+				"stunden": "1"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-12",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "IT-Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Lagerhaltung",
+				"stunden": "1"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP",
+				"stunden": "3"
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Bewertung von Projektkompetenzen",
+				"stunden": "1"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-13",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Aufgaben - IT-Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "LK-TP/LWL",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Moving Window Technologie",
+				"stunden": "2"
+			}
+		]
 	},
 	{
 		"tag": "2019-12-16",
-		"inhalt": []
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Auswertung Vorträge",
+				"stunden": "1"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Steuerklassen",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Verschlüsselung",
+				"stunden": "2"
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Film",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-17",
+		"inhalt": [
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "EU",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "BBN",
+				"stunden": "1"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Lagerhaltung",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Übungen - ALL, ANY, IN, LIKE",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-18",
+		"inhalt": [
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Auswertung Arbeit",
+				"stunden": "1"
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "LK",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Asymmetrische Verschlüsselung",
+				"stunden": "1"
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Klassenarbeit",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-19",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Wirtschaftsdialoge",
+				"stunden": "1"
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "LK IT-Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Übungsaufgaben",
+				"stunden": "1"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-12-20",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Klassenarbeit",
+				"stunden": "1"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "BBN - Aufgaben",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "UDP, Vergleich UDP/TCP",
+				"stunden": "2"
+			}
+		]
 	}
 ]
