@@ -1,0 +1,97 @@
+<style>
+	* { --elements-per-column: 2; }
+</style>
+
+<script>
+	data = [];
+
+	function insert({day, subject, content, hours}) {
+		let obj = data.find( e => e.tag == day );
+		if (!obj) { obj = {tag: day, inhalt: []}; data.push(obj); }
+		console.log(obj)
+		obj.inhalt.push({
+			fach: subject,
+			inhalt: content,
+			stunden: hours
+		});
+		return obj;
+	}
+
+	window.addEventListener("load", function() {
+		let output = document.querySelector("#output");
+		document.querySelector('button').addEventListener("click", function(event) {
+			insert({
+				day: document.querySelector("#day").value,
+				subject: document.querySelector("#subject").value,
+				content: document.querySelector("#content").value,
+				hours: document.querySelector("#hours").value
+			})
+			output.value = JSON.stringify(data);
+			event.preventDefault();
+		})
+		output.addEventListener("input", function(event) {
+			data = JSON.parse(event.target.value);
+		})
+	})
+</script>
+
+<style>
+	form {
+		display: grid;
+		grid-template-columns: repeat(var(--elements-per-column), 20ch 1fr);
+		gap: .4em .8em;
+	}
+	form>*+* { margin-top: .4em; }
+	form>label { display: contents; }
+	form label>span::after { content: ': '; }
+	body { padding: 1em 20vw; }
+	body> *+* { margin-top: 1em; }
+
+	body>textarea { width: 100%; height: 20em; }
+</style>
+
+<form>
+	<label>
+		<span>Tag</span>
+		<input type="date" id="day"></input>
+	</label>
+	<label>
+		<span>Fach</span>
+		<select id="subject">
+			<option>Arbeitsmethodik</option>
+			<option>Betriebssysteme</option>
+			<option>Betriebswirtschaft</option>
+			<option>C#</option>
+			<option>Datenbankpraxis</option>
+			<option>Datenbanktheorie</option>
+			<option>Datenschutz</option>
+			<option>Deutsch</option>
+			<option>Einführung in Neues Schuljahr</option>
+			<option>Englisch</option>
+			<option>Feiertag</option>
+			<option>Gemeinschaftskunde</option>
+			<option>Grundlagen der Informatik</option>
+			<option>Hardware</option>
+			<option>Installationstechnik</option>
+			<option>Java</option>
+			<option>Netze</option>
+			<option>Projektierung</option>
+			<option>Sport</option>
+			<option>Webentwicklung</option>
+			<option>Wirtschaftskunde</option>
+			<option>Őffentliche Netze</option>
+		</select>
+	</label>
+	<label>
+		<span>Inhalt</span>
+		<input type="text" id="content"></input>
+	</label>
+	<label>
+		<span>Stunden</span>
+		<input type="number" id="hours"></input>
+	</label>
+	<button>Insert</button>
+</form>
+
+<textarea id="output">
+</textarea>
