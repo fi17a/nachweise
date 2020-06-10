@@ -1,200 +1,492 @@
 [
-    {
-        "tag":"2020-02-24",
-        "inhalt":[
-            {"fach": "JAVA", "inhalt":"Einführung Android", "stunden":3},
-            {"fach": "Wirtschaftskunde", "inhalt":"Rückblick 2019", "stunden":2},
-            {"fach": "Deutsch", "inhalt":"Das erfolgreiche Kundengespräch", "stunden":1},
-            {"fach": "Datenschutz", "inhalt":"Asymmetrische Verschlüsselung", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-02-25",
-        "inhalt":[
-            {"fach": "Betriebswirtschaft", "inhalt":"Angebotsvergleich", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"Rückblick 2019", "stunden":1},
-            {"fach": "Gemeinschaftskunde", "inhalt":"Diskussion Brixet", "stunden":2},
-            {"fach": "Datenbankpraxis", "inhalt":"Klassenarbeit, UNION", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-02-26",
-        "inhalt":[
-            {"fach": "Datenschutz", "inhalt":"Verschlüsselung", "stunden":1},
-            {"fach": "Deutsch", "inhalt":"Ratschläge in einem Kundengespräch", "stunden":1},
-            {"fach": "Sport", "inhalt":"Levellauf, Technik", "stunden":2},
-            {"fach": "C#", "inhalt":"Fehlerbehandlung, Bsp.", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-02-27",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Kundengespräch", "stunden":1},
-            {"fach": "Betriebswirtschaft", "inhalt":"Kalkulation", "stunden":1},
-            {"fach": "Webentwicklung", "inhalt":"PHP", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-02-28",
-        "inhalt":[
-            {"fach": "Öffentliche Netze", "inhalt":"DSL, NGN", "stunden":2},
-            {"fach": "Netze", "inhalt":"LK, TCP/IP, UDP, ICMP", "stunden":2},
-            {"fach": "Englisch", "inhalt":"Aufgaben", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-03-02",
-        "inhalt":[
-            {"fach": "JAVA", "inhalt":"Taschenrechner App", "stunden":3},
-            {"fach": "Wirtschaftskunde", "inhalt":"Kalkulation", "stunden":2},
-            {"fach": "Deutsch", "inhalt":"Umsetzung der Aufträge zum Thema Kundengespräch", "stunden":1},
-            {"fach": "Datenschutz", "inhalt":"Malware, Viren", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-03-03",
-        "inhalt":[
-            {"fach": "Betriebswirtschaft", "inhalt":"Angebotsvergleich", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"Sozialversicherungen", "stunden":1},
-            {"fach": "Gemeinschaftskunde", "inhalt":"LK EU", "stunden":2},
-            {"fach": "Datenbankpraxis", "inhalt":"JOIN, Übungen", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-03-04",
-        "inhalt":[
-            {"fach": "Datenschutz", "inhalt":"Viren", "stunden":1},
-            {"fach": "Deutsch", "inhalt":"Dialog, Kundengespräch", "stunden":1},
-            {"fach": "Sport", "inhalt":"Technik, Übungen", "stunden":2},
-            {"fach": "C#", "inhalt":"Menu", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-03-05",
-        "inhalt":[
-            {"fach": "Betriebswirtschaft", "inhalt":"Übungen", "stunden":1},
-            {"fach": "Webentwicklung", "inhalt":"Klassenarbeit", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-03-06",
-        "inhalt":[
-            {"fach": "Öffentliche Netze", "inhalt":"Funknetze, WLAN", "stunden":2},
-            {"fach": "Netze", "inhalt":"IPv4-Adressen, Netzklassen", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-03-09",
-        "inhalt":[
-            {"fach": "Wirtschaftskunde", "inhalt":"Sozialprodukt", "stunden":2},
-            {"fach": "Deutsch", "inhalt":"Wiederholung", "stunden":1},
-            {"fach": "Datenschutz", "inhalt":"Antiviren-Software", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-03-10",
-        "inhalt":[
-            {"fach": "Betriebswirtschaft", "inhalt":"Controlling", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"Kaufkraft", "stunden":1},
-            {"fach": "Gemeinschaftskunde", "inhalt":"Arbeitsauftrag", "stunden":2},
-            {"fach": "Datenbankpraxis", "inhalt":"Übungen Inner Join", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-03-11",
-        "inhalt":[
-            {"fach": "Datenschutz", "inhalt":"Antiviren-Software", "stunden":1},
-            {"fach": "Deutsch", "inhalt":"Diskussion Digitalisierung", "stunden":1},
-            {"fach": "Sport", "inhalt":"LK Levellauf", "stunden":2},
-            {"fach": "C#", "inhalt":"Texteditor, Sortierung", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-03-12",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Diskussionsrunde", "stunden":1},
-            {"fach": "Englisch", "inhalt":"Troubleshooting", "stunden":2},
-            {"fach": "Betriebswirtschaft", "inhalt":"Controlling", "stunden":1},
-            {"fach": "Webentwicklung", "inhalt":"PHP OOP", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-03-13",
-        "inhalt":[
-            {"fach": "Öffentliche Netze", "inhalt":"bluetooth", "stunden":2},
-            {"fach": "Netze", "inhalt":"IPv4-Berechnungsbsp.", "stunden":2},
-            {"fach": "Englisch", "inhalt":"LK", "stunden":2}
-        ]
-    },	
-    {
-        "tag":"2020-04-20",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-04-21",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-04-22",
-        "inhalt":[
-            {"fach": "Belehrung", "inhalt":"", "stunden":1},
-            {"fach": "Datenschutz", "inhalt":"RAID 1-6", "stunden":2},
-            {"fach": "Netze", "inhalt":"TODO", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-04-23",
-        "inhalt":[
-            {"fach": "Öffentliche Netze", "inhalt":"Mobilfunknetze", "stunden":1},
-            {"fach": "Betriebswirtschaft", "inhalt":"TODO", "stunden":1},
-            {"fach": "TODO", "inhalt":"", "stunden":4}
-        ]
-    },
-    {
-        "tag":"2020-04-24",
-        "inhalt":[
-            {"fach": "JAVA", "inhalt":"Androidapp Radiobutton", "stunden":2},
-            {"fach": "C#", "inhalt":"Wiederholung", "stunden":2},
-            {"fach": "TODO", "inhalt":"", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-04-27",
-        "inhalt":[
-            {"fach": "C#", "inhalt":"Bsp.", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"Bilanz", "stunden":2},
-            {"fach": "Datenschutz", "inhalt":"RAID 10-50", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2020-04-28",
-        "inhalt":[
-            {"fach": "Öffentliche Netze", "inhalt":"Wiederholung", "stunden":1},
-            {"fach": "Betriebswirtschaft", "inhalt":"Bilanz", "stunden":1},
-            {"fach": "TODO", "inhalt":"Arbeit an Projekt", "stunden":4}
-        ]
-    },
-    {
-        "tag":"2020-04-29",
-        "inhalt":[
-            {"fach": "Datenschutz", "inhalt":"USV", "stunden":3},
-            {"fach": "TODO", "inhalt":"Arbeit an Projekt", "stunden":3}
-        ]
-    },
-    {
-        "tag":"2020-04-30",
-        "inhalt":[
-            {"fach": "TODO", "inhalt":"", "stunden":6}
-        ]
-    },
-    {
-        "tag":"2020-05-01",
-        "inhalt":[
-            {"fach": "Feiertag", "inhalt":"", "stunden":0}
-        ]
-    }
+	{
+		"tag": "2020-02-24",
+		"inhalt": [
+			{
+				"fach": "JAVA",
+				"inhalt": "Einführung Android",
+				"stunden": 3
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Rückblick 2019",
+				"stunden": 2
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Das erfolgreiche Kundengespräch",
+				"stunden": 1
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Asymmetrische Verschlüsselung",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-02-25",
+		"inhalt": [
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Angebotsvergleich",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Rückblick 2019",
+				"stunden": 1
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Diskussion Brixet",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Klassenarbeit, UNION",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-02-26",
+		"inhalt": [
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Verschlüsselung",
+				"stunden": 1
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Ratschläge in einem Kundengespräch",
+				"stunden": 1
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Levellauf, Technik",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Fehlerbehandlung, Bsp.",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-02-27",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Kundengespräch",
+				"stunden": 1
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Kalkulation",
+				"stunden": 1
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-02-28",
+		"inhalt": [
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "DSL, NGN",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "LK, TCP/IP, UDP, ICMP",
+				"stunden": 2
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "Aufgaben",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-03-02",
+		"inhalt": [
+			{
+				"fach": "JAVA",
+				"inhalt": "Taschenrechner App",
+				"stunden": 3
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Kalkulation",
+				"stunden": 2
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Umsetzung der Aufträge zum Thema Kundengespräch",
+				"stunden": 1
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Malware, Viren",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-03-03",
+		"inhalt": [
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Angebotsvergleich",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Sozialversicherungen",
+				"stunden": 1
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "LK EU",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "JOIN, Übungen",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-03-04",
+		"inhalt": [
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Viren",
+				"stunden": 1
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Dialog, Kundengespräch",
+				"stunden": 1
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Technik, Übungen",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Menu",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-03-05",
+		"inhalt": [
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Übungen",
+				"stunden": 1
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Klassenarbeit",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-03-06",
+		"inhalt": [
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Funknetze, WLAN",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "IPv4-Adressen, Netzklassen",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-03-09",
+		"inhalt": [
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Sozialprodukt",
+				"stunden": 2
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Wiederholung",
+				"stunden": 1
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Antiviren-Software",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-03-10",
+		"inhalt": [
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Controlling",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Kaufkraft",
+				"stunden": 1
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Arbeitsauftrag",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Übungen Inner Join",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-03-11",
+		"inhalt": [
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Antiviren-Software",
+				"stunden": 1
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Diskussion Digitalisierung",
+				"stunden": 1
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "LK Levellauf",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Texteditor, Sortierung",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-03-12",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Diskussionsrunde",
+				"stunden": 1
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "Troubleshooting",
+				"stunden": 2
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Controlling",
+				"stunden": 1
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP OOP",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-03-13",
+		"inhalt": [
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "bluetooth",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "IPv4-Berechnungsbsp.",
+				"stunden": 2
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "LK",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-04-20",
+		"inhalt": [
+			{
+				"fach": "",
+				"inhalt": "",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-04-21",
+		"inhalt": [
+			{
+				"fach": "",
+				"inhalt": "",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-04-22",
+		"inhalt": [
+			{
+				"fach": "Belehrung",
+				"inhalt": "",
+				"stunden": 1
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "RAID 1-6",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "TODO",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-04-23",
+		"inhalt": [
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Mobilfunknetze",
+				"stunden": 1
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "TODO",
+				"stunden": 1
+			},
+			{
+				"fach": "TODO",
+				"inhalt": "",
+				"stunden": 4
+			}
+		]
+	},
+	{
+		"tag": "2020-04-24",
+		"inhalt": [
+			{
+				"fach": "JAVA",
+				"inhalt": "Androidapp Radiobutton",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Wiederholung",
+				"stunden": 2
+			},
+			{
+				"fach": "TODO",
+				"inhalt": "",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-04-27",
+		"inhalt": [
+			{
+				"fach": "C#",
+				"inhalt": "Bsp.",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Bilanz",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "RAID 10-50",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2020-04-28",
+		"inhalt": [
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Wiederholung",
+				"stunden": 1
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Bilanz",
+				"stunden": 1
+			},
+			{
+				"fach": "TODO",
+				"inhalt": "Arbeit an Projekt",
+				"stunden": 4
+			}
+		]
+	},
+	{
+		"tag": "2020-04-29",
+		"inhalt": [
+			{
+				"fach": "Datenschutz",
+				"inhalt": "USV",
+				"stunden": 3
+			},
+			{
+				"fach": "TODO",
+				"inhalt": "Arbeit an Projekt",
+				"stunden": 3
+			}
+		]
+	},
+	{
+		"tag": "2020-04-30",
+		"inhalt": [
+			{
+				"fach": "TODO",
+				"inhalt": "",
+				"stunden": 6
+			}
+		]
+	},
+	{
+		"tag": "2020-05-01",
+		"inhalt": [
+			{
+				"fach": "Feiertag",
+				"inhalt": "",
+				"stunden": 0
+			}
+		]
+	}
 ]
