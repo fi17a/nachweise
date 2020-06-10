@@ -46,7 +46,7 @@
         "tag":"2020-03-02",
         "inhalt":[
             {"fach": "JAVA", "inhalt":"Taschenrechner App", "stunden":3},
-            {"fach": "Wirtschaftskunde", "TODO", "stunden":2},
+            {"fach": "Wirtschaftskunde", "inhalt":"TODO", "stunden":2},
             {"fach": "Deutsch", "inhalt":"Umsetzung der Aufträge zum Thema Kundengespräch", "stunden":1},
             {"fach": "Datenschutz", "inhalt":"Malware, Viren", "stunden":2}
         ]
@@ -86,7 +86,7 @@
     {
         "tag":"2020-03-09",
         "inhalt":[
-            {"fach": "Wirtschaftskunde", "Sozialprodukt", "stunden":2},
+            {"fach": "Wirtschaftskunde", "inhalt":"Sozialprodukt", "stunden":2},
             {"fach": "Deutsch", "inhalt":"Wiederholung", "stunden":1},
             {"fach": "Datenschutz", "inhalt":"Antiviren-Software", "stunden":2}
         ]
@@ -166,7 +166,7 @@
         "tag":"2020-04-27",
         "inhalt":[
             {"fach": "C#", "inhalt":"Bsp.", "stunden":2},
-            {"fach": "Wirtschaftskunde", "Bilanz", "stunden":2},
+            {"fach": "Wirtschaftskunde", "inhalt":"Bilanz", "stunden":2},
             {"fach": "Datenschutz", "inhalt":"RAID 10-50", "stunden":2}
         ]
     },
