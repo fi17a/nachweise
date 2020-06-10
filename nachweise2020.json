@@ -5,7 +5,7 @@
             {"fach": "JAVA", "inhalt":"Einführung Android", "stunden":3},
             {"fach": "Wirtschaftskunde", "inhalt":"Rückblick 2019", "stunden":2},
             {"fach": "Deutsch", "inhalt":"Das erfolgreiche Kundengespräch", "stunden":1},
-            {"fach": "Datenschutz", "inhalt":"TODO", "stunden":2}
+            {"fach": "Datenschutz", "inhalt":"Asymmetrische Verschlüsselung", "stunden":2}
         ]
     },
     {
@@ -20,7 +20,7 @@
     {
         "tag":"2020-02-26",
         "inhalt":[
-            {"fach": "Datenschutz", "inhalt":"TODO", "stunden":1},
+            {"fach": "Datenschutz", "inhalt":"Verschlüsselung", "stunden":1},
             {"fach": "Deutsch", "inhalt":"Ratschläge in einem Kundengespräch", "stunden":1},
             {"fach": "Sport", "inhalt":"Levellauf, Technik", "stunden":2},
             {"fach": "C#", "inhalt":"Fehlerbehandlung, Bsp.", "stunden":2}
@@ -29,7 +29,7 @@
     {
         "tag":"2020-02-27",
         "inhalt":[
-            {"fach": "Deutsch", "inhalt":"TODO", "stunden":1},
+            {"fach": "Deutsch", "inhalt":"Kundengespräch", "stunden":1},
             {"fach": "Betriebswirtschaft", "inhalt":"Kalkulation", "stunden":1},
             {"fach": "Webentwicklung", "inhalt":"PHP", "stunden":3}
         ]
@@ -46,7 +46,7 @@
         "tag":"2020-03-02",
         "inhalt":[
             {"fach": "JAVA", "inhalt":"Taschenrechner App", "stunden":3},
-            {"fach": "Wirtschaftskunde", "inhalt":"TODO", "stunden":2},
+            {"fach": "Wirtschaftskunde", "inhalt":"Kalkulation", "stunden":2},
             {"fach": "Deutsch", "inhalt":"Umsetzung der Aufträge zum Thema Kundengespräch", "stunden":1},
             {"fach": "Datenschutz", "inhalt":"Malware, Viren", "stunden":2}
         ]
@@ -103,7 +103,7 @@
     {
         "tag":"2020-03-11",
         "inhalt":[
-            {"fach": "Datenschutz", "inhalt":"TODO", "stunden":1},
+            {"fach": "Datenschutz", "inhalt":"Antiviren-Software", "stunden":1},
             {"fach": "Deutsch", "inhalt":"Diskussion Digitalisierung", "stunden":1},
             {"fach": "Sport", "inhalt":"LK Levellauf", "stunden":2},
             {"fach": "C#", "inhalt":"Texteditor, Sortierung", "stunden":2}
