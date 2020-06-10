@@ -1,0 +1,79 @@
+-- vim: set filetype=moon :miv ---
+print '<!doctype html>'
+print '<meta charset="utf-8">'
+
+css = [[
+	:root {
+		font-family: 'Open Sans', sans-serif;
+		/* font-size: .8em; */
+	}
+	body {
+		padding: 0;
+		padding-left: 0em;
+		margin: 0;
+	}
+	header {
+		display: flex;
+		flex-flow: row nowrap;
+	}
+	h1, h2, h3 {
+		font-family: 'Quicksand', sans-serif;
+	}
+	table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+	tr>*:first-child {
+		width: 16em;
+	}
+	tr>*:last-child {
+		width: 3em;
+		text-align: right;
+	}
+	th, td {
+		border: 1px solid black;
+		padding: .2em .4em;
+	}
+	span.signature {
+		display: inline-block;
+		min-width: 20em;
+		border-top: 2px dotted black;
+		margin-right: 2em;
+		margin-top: 6em;
+		vertical-align: top;
+	}
+]]
+
+year, week, days, name = ...
+
+style -> print css
+
+header ->
+	div ->
+		print name
+		print " Fi17a"
+
+h1 "Ausbildungsnachweis KW#{week} #{year}"
+
+for day in *days
+	h2 day.tag
+	node 'table', ->
+		if #day.inhalt > 0
+			tr ->
+				th 'Fach'
+				th 'Inhalt'
+				th 'Zeit'
+			for entry in *day.inhalt
+				tr ->
+					if type(entry.fach)=="string"
+						td entry.fach
+					else
+						td "(Kein Fach)"
+					td entry.inhalt
+					td entry.stunden, " h"
+		else
+			span day.inhalt.inhalt, ' (', day.inhalt.stunden, ' Stunden)'
+
+div ->
+	span {class: "signature"}, 'Klassenlehrer'
+	span {class: "signature"}, 'Auszubildender', (->br!), name
