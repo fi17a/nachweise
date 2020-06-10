@@ -399,7 +399,7 @@
 			},
 			{
 				"fach": "Java",
-				"inhalt": "GUI, Abfrage Formfelder",
+				"inhalt": "Übung: GUI, Abfrage Formfelder",
 				"stunden": 2
 			},
 			{
@@ -569,7 +569,7 @@
 			},
 			{
 				"fach": "Java",
-				"inhalt": "Arbeitsblatt GUI LED Vorwiederstand",
+				"inhalt": "Übung: Arbeitsblatt GUI LED Vorwiederstand",
 				"stunden": "3"
 			}
 		]
@@ -679,7 +679,7 @@
 			},
 			{
 				"fach": "Java",
-				"inhalt": "Projekt Einkauf PAP",
+				"inhalt": "Übung: Projekt Einkauf PAP",
 				"stunden": "3"
 			}
 		]
@@ -739,7 +739,7 @@
 			},
 			{
 				"fach": "Wirtschaftskunde",
-				"inhalt": "BR",
+				"inhalt": "Betriebsrat",
 				"stunden": "1"
 			},
 			{
@@ -771,11 +771,203 @@
 	},
 	{
 		"tag": "2019-10-28",
-		"inhalt": []
+		"inhalt": [
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Betriebsrat",
+				"stunden": "2"
+			},
+			{
+				"fach": "Deutsch",
+				"inhalt": "Vortragsvorbereitung Betriebliches Projekt",
+				"stunden": "2"
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Übung: Temperaturumrechnung",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-10-29",
+		"inhalt": [
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Vorträge EU Staaten",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "LK Tarifverträge, Jugend- und Auszubildendenvertretung",
+				"stunden": "1"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Aufgaben Prüfen, Angebotserstellung,",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Keyword ALL",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-10-30",
+		"inhalt": [
+			{
+				"fach": "Exkursion",
+				"inhalt": "Klassenexkursion Mödlareuth",
+				"stunden": "6"
+			}
+		]
+	},
+	{
+		"tag": "2019-10-31",
+		"inhalt": [
+			{
+				"fach": "Feiertag",
+				"inhalt": "",
+				"stunden": "0"
+			}
+		]
+	},
+	{
+		"tag": "2019-11-01",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "IT Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "LWL Arten",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Protokolle der Transportschicht, TCP 3-Wege-Handshake",
+				"stunden": "2"
+			}
+		]
 	},
 	{
 		"tag": "2019-11-04",
-		"inhalt": []
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Vorträge Projektarbeit",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Lohnarten",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Auswertung Arbeit",
+				"stunden": "1"
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Übung: Uhrzeit und Sensor",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-11-05",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Vorträge Projektarbeit",
+				"stunden": "1"
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Vorträge Mitgliedsstaaten EU",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Lohnberechnung",
+				"stunden": "1"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Angebot, Kaufkraft, Leasing",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "In-Operator",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-11-06",
+		"inhalt": [
+			{
+				"fach": "Sport",
+				"inhalt": "Sport",
+				"stunden": "2"
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Aufgabe: Kreditrechnung",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Firewall",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-11-07",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "IT Security Discussion",
+				"stunden": "2"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Arbeit Angebot & Leasing",
+				"stunden": "1"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP Stringfunktionen",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-11-08",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "IT Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "LWL",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Verbindungsabbau, 4-Wege-Handshake",
+				"stunden": "2"
+			}
+		]
 	},
 	{
 		"tag": "2019-12-09",
