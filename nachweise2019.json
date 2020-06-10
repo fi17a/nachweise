@@ -1,221 +1,793 @@
 [
-    {
-        "tag":"2019-04-29",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Protokoll", "stunden":1},
-            {"fach": "Wirtschaftskunde", "inhalt":"Sozialversicherungen", "stunden":1},
-            {"fach": "Betriebswirtschaft", "inhalt":"Marketing", "stunden":2},
-            {"fach": "C#", "inhalt":"Gleichung mit zwei Unbekannten", "stunden":2},
-            {"fach": "Webentwicklung", "inhalt":"Klassenarbeit", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-04-30",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Protokoll", "stunden":2},
-            {"fach": "Gemeinschaftskunde", "inhalt":"Antisemitismus", "stunden":1},
-            {"fach": "Netze", "inhalt":"Isoliertes Routing", "stunden":1},
-            {"fach": "Sport", "inhalt":"Fitness, Technik", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-05-01",
-        "inhalt":[
-            {"fach": "Feiertag", "inhalt":"", "stunden":0}
-    },
-    {
-        "tag":"2019-05-02",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Ordering and Complaints", "stunden":2},
-            {"fach": "Betriebswirtschaft", "inhalt":"Marketingmix", "stunden":1},
-            {"fach": "Netze", "inhalt":"Isoliertes Routing", "stunden":1},
-            {"fach": "Oeffentliche Netze", "inhalt":"TAE, DECT, VOIP", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-05-03",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Busyness Letters", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"Rentenversicherung", "stunden":2},
-            {"fach": "Datenbanktheorie", "inhalt":"Beispiel Bücherei", "stunden":1}
-        ]
-    },
-    {
-        "tag":"2019-05-06",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Einschätzung eines fiktiven Kollegen", "stunden":1},
-            {"fach": "Wirtschaftskunde", "inhalt":"Unfallversicherung, Arbeitslosenversicherung und Arbeitslosengeld 1", "stunden":1},
-            {"fach": "Betriebswirtschaft", "inhalt":"Produktlebenszyklus, Portfolio und Preis- und Konditionspolitik", "stunden":2},
-            {"fach": "C#", "inhalt":"Leistungskontrolle", "stunden":2},
-            {"fach": "Webentwicklung", "inhalt":"Canvas", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-05-07",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Einschätzung eines fiktiven Kollegen", "stunden":2},
-            {"fach": "Gemeinschaftskunde", "inhalt":"Klassenarbeit", "stunden":1},
-            {"fach": "Sport", "inhalt":"Abschlussspiele & Technik", "stunden":2},
-            {"fach": "Netze", "inhalt":"Distanzvektorrouting, OSPF", "stunden":1}
-        ]
-    },
-    {
-        "tag":"2019-05-08",
-        "inhalt":[
-            {"fach": "Gemeinschaftskunde", "inhalt":"UN", "stunden":1},
-            {"fach": "Javaprogrammierung", "inhalt":"Übungen", "stunden":2},
-            {"fach": "Projektierung", "inhalt":"Netzplantechnik", "stunden":3},
-            {"fach": "Datenbanktheorie", "inhalt":"Beispiel Bücherei, Normalisierung", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-05-09",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Auswertung e-Mails, Übungen", "stunden":2},
-            {"fach": "Betriebswirtschaft", "inhalt":"Kommunikationspolitik", "stunden":1},
-            {"fach": "Öffentliche Netze", "inhalt":"VOIP", "stunden":2},
-            {"fach": "Netze", "inhalt":"Dijkstra-Algorithmus", "stunden":1}
-        ]
-    },
-    {
-        "tag":"2019-05-10",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Installing Software", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"ALG II", "stunden":1},
-            {"fach": "Öffentliche Netze", "inhalt":"Leistungskontrolle Telefondienst", "stunden":1},
-            {"fach": "Datenbanktheorie", "inhalt":"Beispiel Bücherei, Normalisierung", "stunden":1}
-    },
-    {
-        "tag":"2019-06-10",
-        "inhalt":[
-            {"fach": "Feiertag", "inhalt":"", "stunden":0}
-    },
-    {
-        "tag":"2019-06-11",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"Berichtigung: Einschätzung eines Kollegen", "stunden":2},
-            {"fach": "Gemeinschaftskunde", "inhalt":"Grund- und Menschenrechte", "stunden":1},
-            {"fach": "Sport", "inhalt":"Wandsitzen und Volleyballtechnik", "stunden":2},
-            {"fach": "Netze", "inhalt":"Vorbereitung Klassenarbeit", "stunden":1}
-    },
-    {
-        "tag":"2019-06-12",
-        "inhalt":[
-            {"fach": "Gemeinschaftskunde", "inhalt":"TODO", "stunden":1},
-            {"fach": "Java", "inhalt":"Übung", "stunden":2},
-            {"fach": "Projektierung", "inhalt":"Netzplantechnik", "stunden":3},
-            {"fach": "Datenbanktheorie", "inhalt":"Normalisierung", "stunden":2}
-    },
-    {
-        "tag":"2019-06-13",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Modal Verbs", "stunden":2},
-            {"fach": "Betriebswirtschaft", "inhalt":"Werbung", "stunden":1},
-            {"fach": "Öffentliche Netze", "inhalt":"VoIP Beispiel", "stunden":2},
-            {"fach": "Netze", "inhalt":"Klassebarbeit OSI 1-3", "stunden":1}
-    },
-    {
-        "tag":"2019-06-14",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Computer Viruses", "stunden":2},
-            {"fach": "Wirtschaftskunde", "inhalt":"LK Sozialversicherung", "stunden":2},
-            {"fach": "Datenbanktheorie", "inhalt":"Datenbanknormalisierung", "stunden":1}
-    },
-    {
-        "tag":"2019-06-17",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"TODO", "stunden":1},
-            {"fach": "Wirtschaftskunde", "inhalt":"Bewerbung", "stunden":1},
-            {"fach": "Betriebswirtschaft", "inhalt":"Sponsoring, Vertreterdistribution", "stunden":2},
-            {"fach": "C#", "inhalt":"Sprungverteiler", "stunden":2},
-            {"fach": "Webentwicklung", "inhalt":"TODO", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-06-18",
-        "inhalt":[
-            {"fach": "Deutsch", "inhalt":"TODO", "stunden":2},
-            {"fach": "Sport", "inhalt":"Sport", "stunden":2},
-            {"fach": "Netze", "inhalt":"Auswertung Klassenarbeit, OSI 4-5", "stunden":1}
-        ]
-    },
-    {
-        "tag":"2019-06-19",
-        "inhalt":[
-            {"fach": "Gemeinschaftskunde", "inhalt":"Abschluss Noten, Info. Anfertigen Facharbeit", "stunden":3},
-            {"fach": "Java", "inhalt":"GUI, Abfrage Formfelder", "stunden":2},
-            {"fach": "Datenbanktheorie", "inhalt":"Abschlussarbeit", "stunden":2}
-        ]
-    },
-    {
-        "tag":"2019-06-20",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Computer Viruses", "stunden":2},
-            {"fach": "Betriebswirtschaft", "inhalt":"e-Commerce", "stunden":1},
-            {"fach": "Öffentliche Netze", "inhalt":"Strukturierte Verkabelung", "stunden":2},
-            {"fach": "Netze", "inhalt":"TODO", "stunden":1}
-        ]
-    },
-    {
-        "tag":"2019-06-21",
-        "inhalt":[
-            {"fach": "Englisch", "inhalt":"Jahresabschluss", "stunden":1},
-            {"fach": "Wirtschaftskunde", "inhalt":"Abschluss, zeugnisvergabe", "stunden":3},
-            {"fach": "Datenbanktheorie", "inhalt":"Auswertung Prüfung", "stunden":1}
-        ]
-    },
-    {
-        "tag":"2019-08-19",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    },
-    {
-	"tag":"2019-08-26",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    },
-    {
-        "tag":"2019-09-02",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    },
-    {
-        "tag":"2019-10-28",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    },
-    {
-        "tag":"2019-11-04",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    },
-    {
-        "tag":"2019-12-09",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    },
-    {
-        "tag":"2019-12-16",
-        "inhalt":[
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0},
-            {"fach": "", "inhalt":"", "stunden":0}
-        ]
-    }
+	{
+		"tag": "2019-04-29",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Protokoll",
+				"stunden": 1
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Sozialversicherungen",
+				"stunden": 1
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Marketing",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Gleichung mit zwei Unbekannten",
+				"stunden": 2
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Klassenarbeit",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-04-30",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Protokoll",
+				"stunden": 2
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Antisemitismus",
+				"stunden": 1
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Isoliertes Routing",
+				"stunden": 1
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Fitness, Technik",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-05-01",
+		"inhalt": [
+			{
+				"fach": "Feiertag",
+				"inhalt": "",
+				"stunden": 0
+			}
+		]
+	},
+	{
+		"tag": "2019-05-02",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Ordering and Complaints",
+				"stunden": 2
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Marketingmix",
+				"stunden": 1
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Isoliertes Routing",
+				"stunden": 1
+			},
+			{
+				"fach": "Oeffentliche Netze",
+				"inhalt": "TAE, DECT, VOIP",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-05-03",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Busyness Letters",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Rentenversicherung",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Beispiel Bücherei",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-05-06",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Einschätzung eines fiktiven Kollegen",
+				"stunden": 1
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Unfallversicherung, Arbeitslosenversicherung und Arbeitslosengeld 1",
+				"stunden": 1
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Produktlebenszyklus, Portfolio und Preis- und Konditionspolitik",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Leistungskontrolle",
+				"stunden": 2
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Canvas",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-05-07",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Einschätzung eines fiktiven Kollegen",
+				"stunden": 2
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Klassenarbeit",
+				"stunden": 1
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Abschlussspiele & Technik",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Distanzvektorrouting, OSPF",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-05-08",
+		"inhalt": [
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "UN",
+				"stunden": 1
+			},
+			{
+				"fach": "Javaprogrammierung",
+				"inhalt": "Übungen",
+				"stunden": 2
+			},
+			{
+				"fach": "Projektierung",
+				"inhalt": "Netzplantechnik",
+				"stunden": 3
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Beispiel Bücherei, Normalisierung",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-05-09",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Auswertung e-Mails, Übungen",
+				"stunden": 2
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Kommunikationspolitik",
+				"stunden": 1
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "VOIP",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Dijkstra-Algorithmus",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-05-10",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Installing Software",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "ALG II",
+				"stunden": 1
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Leistungskontrolle Telefondienst",
+				"stunden": 1
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Beispiel Bücherei, Normalisierung",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-06-10",
+		"inhalt": [
+			{
+				"fach": "Feiertag",
+				"inhalt": "",
+				"stunden": 0
+			}
+		]
+	},
+	{
+		"tag": "2019-06-11",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Berichtigung: Einschätzung eines Kollegen",
+				"stunden": 2
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Grund- und Menschenrechte",
+				"stunden": 1
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Wandsitzen und Volleyballtechnik",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Vorbereitung Klassenarbeit",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-06-12",
+		"inhalt": [
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "TODO",
+				"stunden": 1
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Übung",
+				"stunden": 2
+			},
+			{
+				"fach": "Projektierung",
+				"inhalt": "Netzplantechnik",
+				"stunden": 3
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Normalisierung",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-06-13",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Modal Verbs",
+				"stunden": 2
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Werbung",
+				"stunden": 1
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "VoIP Beispiel",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Klassebarbeit OSI 1-3",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-06-14",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Computer Viruses",
+				"stunden": 2
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "LK Sozialversicherung",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Datenbanknormalisierung",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-06-17",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "TODO",
+				"stunden": 1
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Bewerbung",
+				"stunden": 1
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Sponsoring, Vertreterdistribution",
+				"stunden": 2
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Sprungverteiler",
+				"stunden": 2
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "TODO",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-06-18",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "TODO",
+				"stunden": 2
+			},
+			{
+				"fach": "Sport",
+				"inhalt": "Sport",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Auswertung Klassenarbeit, OSI 4-5",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-06-19",
+		"inhalt": [
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Abschluss Noten, Info. Anfertigen Facharbeit",
+				"stunden": 3
+			},
+			{
+				"fach": "Java",
+				"inhalt": "GUI, Abfrage Formfelder",
+				"stunden": 2
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Abschlussarbeit",
+				"stunden": 2
+			}
+		]
+	},
+	{
+		"tag": "2019-06-20",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Computer Viruses",
+				"stunden": 2
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "e-Commerce",
+				"stunden": 1
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Strukturierte Verkabelung",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "TODO",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-06-21",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Jahresabschluss",
+				"stunden": 1
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Abschluss, zeugnisvergabe",
+				"stunden": 3
+			},
+			{
+				"fach": "Datenbanktheorie",
+				"inhalt": "Auswertung Prüfung",
+				"stunden": 1
+			}
+		]
+	},
+	{
+		"tag": "2019-08-19",
+		"inhalt": [
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Einweisung, Wiederholung, News",
+				"stunden": "5"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Kennenlernen",
+				"stunden": "1"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-20",
+		"inhalt": [
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Einführung Europa",
+				"stunden": "2"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Kalkulation, Cloud / Social Media, Bestandsaufnahme",
+				"stunden": "3"
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Einführung SQL, Vorstellung von FEDB1, Select-from-where",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-21",
+		"inhalt": [
+			{
+				"fach": "Sport",
+				"inhalt": "Belehrung, Ausdauerlauf",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Einführung Datenschutz-Datensicherheit",
+				"stunden": "2"
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Schleifen",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-22",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Textstruktur erfassen und darstellen",
+				"stunden": "1"
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "How computer viruses work",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Arbeitszeugnis",
+				"stunden": "1"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP Einführung, Variablen, Array",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-23",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "How computer viruses work",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Twisted Pair",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "ARP, Einführung IP",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-26",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Übung Inhaltsangabe",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Kündigungsfrist",
+				"stunden": "2"
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Arbeitsblatt GUI LED Vorwiederstand",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-27",
+		"inhalt": [
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Datum / Uhrzeit, Aggregation",
+				"stunden": "3"
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Weg zum vereinten Europa",
+				"stunden": "2"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "Kalkulation, Finanzierung",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-28",
+		"inhalt": [
+			{
+				"fach": "Sport",
+				"inhalt": "Leistungskontrolle",
+				"stunden": "2"
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Schleifen und Textboxen",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "DSGVO",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-29",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "TODO",
+				"stunden": "1"
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "Ten worst computer viruses of all time",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "Tarifverträge",
+				"stunden": "1"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "PHP Arrays, Bedingungen",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-08-30",
+		"inhalt": [
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Beenden und Leistungskontrolle STV",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "Transparente und Nichttransparente Fragmentierung",
+				"stunden": "2"
+			},
+			{
+				"fach": "Englisch",
+				"inhalt": "Ten worst computer viruses of all times",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-09-02",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "TODO",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "LK Tarifverträge",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Datenschutzbeauftragter",
+				"stunden": "1"
+			},
+			{
+				"fach": "Java",
+				"inhalt": "Projekt Einkauf PAP",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-09-03",
+		"inhalt": [
+			{
+				"fach": "Deutsch",
+				"inhalt": "Groß- und Kleinschreibung, Zeichensetzung",
+				"stunden": "1"
+			},
+			{
+				"fach": "Gemeinschaftskunde",
+				"inhalt": "Vorträge EU Staaten",
+				"stunden": "2"
+			},
+			{
+				"fach": "Betriebswirtschaft",
+				"inhalt": "TODO",
+				"stunden": "3"
+			},
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Aggregation, Einführung all",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-09-04",
+		"inhalt": [
+			{
+				"fach": "Sport",
+				"inhalt": "Krafttraining",
+				"stunden": "2"
+			},
+			{
+				"fach": "C#",
+				"inhalt": "Aufgabe Kreditrechnung",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Gruppenarbeit Gesetze",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-09-05",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "IT Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Wirtschaftskunde",
+				"inhalt": "BR",
+				"stunden": "1"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Schleifen, Pythagorische Tripel",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2019-09-06",
+		"inhalt": [
+			{
+				"fach": "Englisch",
+				"inhalt": "Presentation IT Security",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "CAT-8, Steckverbindungen, LWL",
+				"stunden": "2"
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "ICMP",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2019-10-28",
+		"inhalt": []
+	},
+	{
+		"tag": "2019-11-04",
+		"inhalt": []
+	},
+	{
+		"tag": "2019-12-09",
+		"inhalt": []
+	},
+	{
+		"tag": "2019-12-16",
+		"inhalt": []
+	}
 ]
