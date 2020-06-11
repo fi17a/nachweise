@@ -194,7 +194,7 @@
 		"inhalt": [
 			{
 				"fach": "Betriebswirtschaft",
-				"inhalt": "Übungen",
+				"inhalt": "Übungen Fremdbeschaffung",
 				"stunden": 1
 			},
 			{
@@ -338,9 +338,9 @@
 		"tag": "2020-04-20",
 		"inhalt": [
 			{
-				"fach": "",
-				"inhalt": "",
-				"stunden": 3
+				"fach": "Ausfall",
+				"inhalt": "COVID-19 bedingter Ausfall",
+				"stunden": "0"
 			}
 		]
 	},
@@ -348,9 +348,9 @@
 		"tag": "2020-04-21",
 		"inhalt": [
 			{
-				"fach": "",
-				"inhalt": "",
-				"stunden": 2
+				"fach": "Ausfall",
+				"inhalt": "COVID-19 bedingter Ausfall",
+				"stunden": "0"
 			}
 		]
 	},
@@ -369,7 +369,7 @@
 			},
 			{
 				"fach": "Netze",
-				"inhalt": "TODO",
+				"inhalt": "IP-Adressierung, Netzklassen",
 				"stunden": 2
 			}
 		]
@@ -384,13 +384,18 @@
 			},
 			{
 				"fach": "Betriebswirtschaft",
-				"inhalt": "TODO",
+				"inhalt": "Geld, Handel",
 				"stunden": 1
 			},
 			{
-				"fach": "TODO",
-				"inhalt": "",
-				"stunden": 4
+				"fach": "",
+				"inhalt": "Prüfungsvorbereitung",
+				"stunden": 2
+			},
+			{
+				"fach": "Netze",
+				"inhalt": "IPv6",
+				"stunden": "2"
 			}
 		]
 	},
@@ -418,13 +423,13 @@
 		"tag": "2020-04-27",
 		"inhalt": [
 			{
-				"fach": "C#",
-				"inhalt": "Bsp.",
+				"fach": "BWG",
+				"inhalt": "Zahlungsmittel",
 				"stunden": 2
 			},
 			{
 				"fach": "Wirtschaftskunde",
-				"inhalt": "Bilanz",
+				"inhalt": "Inventar, Bilanz",
 				"stunden": 2
 			},
 			{
@@ -445,11 +450,11 @@
 			{
 				"fach": "Betriebswirtschaft",
 				"inhalt": "Bilanz",
-				"stunden": 1
+				"stunden": 2
 			},
 			{
-				"fach": "TODO",
-				"inhalt": "Arbeit an Projekt",
+				"fach": "C#",
+				"inhalt": "Aufgaben",
 				"stunden": 4
 			}
 		]
@@ -463,8 +468,8 @@
 				"stunden": 3
 			},
 			{
-				"fach": "TODO",
-				"inhalt": "Arbeit an Projekt",
+				"fach": "Netze",
+				"inhalt": "IPv6",
 				"stunden": 3
 			}
 		]
@@ -473,8 +478,8 @@
 		"tag": "2020-04-30",
 		"inhalt": [
 			{
-				"fach": "TODO",
-				"inhalt": "",
+				"fach": "",
+				"inhalt": "Prüfungsvorbereitung",
 				"stunden": 6
 			}
 		]
@@ -486,6 +491,106 @@
 				"fach": "Feiertag",
 				"inhalt": "",
 				"stunden": 0
+			}
+		]
+	},
+	{
+		"tag": "2020-06-02",
+		"inhalt": [
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Outer Join",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-03",
+		"inhalt": [
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Prüfungsvorbereitung",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-04",
+		"inhalt": [
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Session, Cookies",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-05",
+		"inhalt": [
+			{
+				"fach": "Netze",
+				"inhalt": "IPv6 Adressenaufbau",
+				"stunden": "2"
+			},
+			{
+				"fach": "Öffentliche Netze",
+				"inhalt": "Prüfungsvorbereitung",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-08",
+		"inhalt": [
+			{
+				"fach": "Java",
+				"inhalt": "Cocktaillexikon APP",
+				"stunden": "3"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Übungen",
+				"stunden": "1"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-09",
+		"inhalt": [
+			{
+				"fach": "Datenbankpraxis",
+				"inhalt": "Outer Join",
+				"stunden": "3"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-10",
+		"inhalt": [
+			{
+				"fach": "C#",
+				"inhalt": "Aufgaben",
+				"stunden": "2"
+			},
+			{
+				"fach": "Datenschutz",
+				"inhalt": "Übungsaufgaben",
+				"stunden": "2"
+			}
+		]
+	},
+	{
+		"tag": "2020-06-11",
+		"inhalt": [
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Vorstellung eigener Projekte",
+				"stunden": "3"
+			},
+			{
+				"fach": "Webentwicklung",
+				"inhalt": "Vorstellung eigener Projekte",
+				"stunden": "3"
 			}
 		]
 	}
