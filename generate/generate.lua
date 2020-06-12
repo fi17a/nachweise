@@ -33,7 +33,7 @@ for i=2, select('#', ...) do
 
 	for year, weeks in pairs(years) do
 		for week, days in pairs(weeks) do
-			local filename = string.format("%i-%02i_#%i.html", year, week, i)
+			local filename = string.format("%i-%02i.html", year, week)
 			local file = assert(io.open(filename, "w"))
 			moonxml.html.environment.print = function(...)
 				file:write(...)
@@ -47,4 +47,4 @@ end
 os.execute('ls *.html | sort | xargs -I % wkhtmltopdf % %.pdf')
 os.execute('echo Uniting: `ls *.html.pdf | sort`')
 os.execute('pdfunite `ls *.html.pdf | sort` "'..name..'".pdf')
-os.execute('rm *.html.pdf *.html')
+--os.execute('rm *.html.pdf *.html')

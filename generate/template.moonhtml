@@ -3,6 +3,7 @@ print '<!doctype html>'
 print '<meta charset="utf-8">'
 
 css = [[
+	:root, body { background: white; }
 	:root {
 		font-family: 'Open Sans', sans-serif;
 		/* font-size: .8em; */
